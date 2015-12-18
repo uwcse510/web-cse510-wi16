@@ -1,17 +1,17 @@
-name:       'Fogies Base'
-baseurl:    ''
+name:       'CSE 510'
+baseurl:    '/courses/cse510/16wi'
 
 brandimage: ''
-brandtext:  'Fogies'
+brandtext:  'CSE 510 - Advanced Topics in HCI - Winter 2016'
 
 lessc: node_modules/.bin/lessc
 
 navbar:
   items:
-    - text: 'Sidebar-None'
-      link: 'base_sample/bar-sidebar-none.html'
-    - text: 'Sidebar-Right'
-      link: 'base_sample/bar-sidebar-right.html'
+    - text: 'Home'
+      link: 'index.html'
+    - text: 'Calendar'
+      link: 'calendar.html'
 
 exclude:
   # Bootstrap
@@ -33,3 +33,7 @@ exclude:
   - Gemfile.lock
   # Tests
   - tests
+
+collections:
+  assignments:
+    output: true
