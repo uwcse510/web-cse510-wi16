@@ -35,24 +35,34 @@ No Readings Assigned
 <div class="col-md-10" markdown="block">
 ## Visions of Human-Computer Interaction
 
+<div class="readings" markdown="block">
 all are about going beyond mimicking the previous
 
 group to present one
   indvidually read another
-
-As We May Think
-
-Beyond Being There
-
-Digital Desk
-
-Tangible Bits
-
-Magic Ink
-
-Weiser
-
-Pad++
+<div class="paper" markdown="block">
+Vannevar Bush. [As We May Think](theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/). The Atlantic, 1945.
+</div>
+<div class="paper" markdown="block">
+Jim Hollan, Scott Stornetta. [Beyond Being There](//dl.acm.org/citation.cfm?id=142769). CHI 1992.
+</div>
+<div class="paper" markdown="block">
+Pierre Wellner. [Interacting with paper on the DigitalDesk](//dl.acm.org/citation.cfm?id=159630). CACM 1993. [(video)](//www.youtube.com/watch?v=S8lCetZ_57g)
+</div>
+<div class="paper" markdown="block">
+Hiroshi Ishii, Brygg Ullmer. [Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms](//dl.acm.org/citation.cfm?id=258715). CHI 1997.
+</div>
+<div class="paper" markdown="block">
+Brett Victor. [Magic Ink: Information Software and the Graphical Interface](//worrydream.com/MagicInk/). Blog post.
+</div>
+<div class="paper" markdown="block">
+Mark Weiser. [The Computer for the 21st Century](/readings/weiser_21st_century.pdf). Scientific American 1991.
+</div>
+<div class="paper" markdown="block">
+Benjamin B. Bederson, James D. Hollan. [Pad++: a zooming graphical interface for exploring alternate interface physics](http://dl.acm.org/citation.cfm?id=192435). UIST 1994.
+</div>
+`one more to give 8 total?`
+</div>
 
 </div>
 </div>
