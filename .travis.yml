@@ -1,7 +1,7 @@
 language: python
 
 python:
-  - "3.4"
+  - "3.5"
 
 install:
   # Install Ruby
@@ -14,7 +14,7 @@ install:
   - nvm install 5.1.0
 
   # Install Python dependencies
-  - pip install -r requirements3.txt
+  - pip install invoke
 
   # Invoke will get our other dependencies
   - invoke update_dependencies
