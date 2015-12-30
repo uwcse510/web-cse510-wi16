@@ -3,11 +3,6 @@ layout: base/bar-sidebar-none
 title: Course Overview
 ---
 
-`This page is still being developed, all content is subject to change`
-
-- Table of Contents
-{:toc}
-
 # Course Description                    {#description}
 
 `This page is still being developed, all content is subject to change`
@@ -22,6 +17,33 @@ It is overwhelmingly organized around a group project, in which students:
 - Evaluate and Improve a Design
 - Communicate their Problem and Resulting Design
 ~~~
+
+# Basic Information
+
+__Contact__: Email all instructors at cse510-instr [at] cs.washington.edu
+
+__Class Time & Location__: Tuesdays & Thursdays, 10:30-11:50, CSE 403
+
+__Office Hours__: By appointment, and as scheduled for project meetings.
+
+__Course Staff__:
+
+<html>
+  <div class="row">
+    <div class="col-md-2">
+      <a href="http://homes.cs.washington.edu/~jfogarty/">
+        <p>James Fogarty</p>
+        <p><img src="{{ site.baseurl }}/images/james_photo.jpg" width="150" alt="James Fogarty"/></p>
+      </a>
+    </div>
+    <div class="col-md-2">
+      <a href="http://www.depstein.net/">
+        <p>Daniel Epstein</p>
+        <p><img src="{{ site.baseurl }}/images/daniel_photo.jpg" width="150" alt="Daniel Epstein"/></p>
+      </a>
+    </div>
+  </div>
+</html>
 
 # Project Structure
 
@@ -55,44 +77,6 @@ A small set of readings are assigned throughout the quarter, with additional res
 
 - [Reading Assignments]({{ site.baseurl }}/assignments/readings/)
 ~~~
-
-# Basic Information
-
-__Contact__: Email all instructors at cse440-instr [at] cs.washington.edu
-
-__Class Time & Location__: Tuesdays & Thursdays, 12:00-1:50 MOR 230
-
-__Section Times & Locations__: 
-
-- Fridays, 10:30-11:20 MGH 228
-- Fridays, 11:30-12:20 MGH 295
-- Fridays, 1:30-2:20 MGH 254
-- Fridays, 2:30-3:20 MGH 254
-
-__Office Hours__: 
-
-Scheduled hours are held most weeks, but check the calendar:
-
-- James, Tuesdays, 4:30 - 5:30, CSE 666 
-- Lauren, Wednesdays, 1:30 - 2:30, CSE 218 
-- Alex, Thursday, 1:30 - 2:30, CSE 218
-  
-Other meetings by appointment.
-
-__Course Staff__:
-
-<html>
-  <div class="row">
-    <div class="col-md-2">
-      <p>James Fogarty</p>
-      <p><img src="{{ site.baseurl }}/images/james_photo.jpg" width="150" alt="James Fogarty"/></p>
-    </div>
-    <div class="col-md-2">
-      <p>Daniel Epstein</p>
-      <p><img src="{{ site.baseurl }}/images/daniel_photo.jpg" width="150" alt="Daniel Epstein"/></p>
-    </div>
-  </div>
-</html>
 
 # Grading
 
