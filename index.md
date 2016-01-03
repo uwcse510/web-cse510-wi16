@@ -116,19 +116,12 @@ Sample project ideas have been made available here:
 # Exam
 
 There will be a open-note, take-home exam asking you to demonstrate your understanding of the material
-in a more substantial format than the required reading reports.
+in a more substantial format.
+The exam will evaluate your understanding of and critical thinking about concepts covered in this course,
+requiring you to connect concepts across papers.
+The readings will therefore also be important to the exam.
 
 Additional details will be posted here when finalized.
-
-{% comment %}
-This course will have a take-home exam. The exam will be open-note.
-
-The exam will evaluate understanding of and critical thinking about the concepts covered in the readings and classroom discussion.
-We anticipate all of the questions will be "essay-style."
-Rather than defining terms or concepts, you will be asked to connect concepts across papers you have read (or potentially a new paper).
-
-While we do not plan to enforce a time limit on the exam, we will offer a rough suggestion for how long to spend on the exam.
-{% endcomment %}
 
 # Statistics Lab
 
@@ -137,9 +130,14 @@ There will be a statistic lab in which you work through basic analysis and repor
 Additional details will be posted here when finalized.
 
 {% comment %}
-There are a set of statistical skills that are essential in evaluating many kinds of results in HCI, but it isn't always straightforward to acquire them. Courses in the Statistics Department may be more theoretical than you need, while just reading the manual for a statistics package won't provide the fundamentals.
+There are a set of statistical skills that are essential in evaluating many kinds of results in HCI,
+but it isn't always straightforward to acquire them.
+Courses in the Statistics Department may be more theoretical than you need,
+while just reading the manual for a statistics package won't provide the fundamentals.
 
-To aid in developing the necessary skills, you will complete a statistics lab. You will analyze two datasets from published research papers in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/). The lab will walk you through analyzing one of the datasets, and you will analyze the other on your own.
+To aid in developing the necessary skills, you will complete a statistics lab.
+You will analyze two datasets from published research papers in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
+The lab will walk you through analyzing one of the datasets, and you will analyze the other on your own.
 
 More information can be found on the [Statistics lab](/assignments/statisticslab) page.
 {% endcomment %}
