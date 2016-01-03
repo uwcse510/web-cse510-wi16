@@ -100,9 +100,7 @@ Milestone reports consist of a short document and a short in-class presentation.
 Prepare a one-page document addressing the following points:
 
 - What you have done for this milestone, discussing current progress relative to previously stated plans.
-
 - What you will do before your next milestone, including any adaptations based on your status or findings.
-
 - Any areas where you could use advice or are blocked.
 
 ### Presentation
