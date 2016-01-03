@@ -3,98 +3,158 @@ layout: base/bar-sidebar-none
 title: "Project"
 ---
 
-`Content subject to change`
-
 # Overview
 
-Term projects will be a major focus of this course. The project will require hands-on experience with HCI research. You can choose to design and implement a new piece of HCI technology, or to design and execute a study of existing technology with HCI research implications. We expect that most students will do the project in groups of two, but individual projects or groups of three are possible. The project consists of a __proposal__, a pair of __milestones__, and a __final report__.
+A course project will be a major component of your work.
+This will require hands-on experience with HCI, while remaining open to different possibilities.
 
-The course project is worth `99.9999%` of your overall course grade.
+Because you are still new to HCI research, we do not necessarily expect you to produce publishable work
+Instead, the expectation is that you will do something _interesting_.
+It is then up to you to define _interesting_ according to what you want to accomplish in this project,
+seeking appropriate feedback from staff.
+For example, you might choose to:
 
-# Proposal
+- Design and implement a new piece of HCI technology.
+- Design and execute an appropriately compelling study with HCI research implications.
+- Perform a feasibility analysis or pilot study to inform future research plans.
+- Replicate an existing technology or study.
+- Execute a sufficiently interesting design problem (i.e., focusing on design without regard to research novelty).
+
+We expect most students will do projects in groups of two, but will consider individuals or groups of three.
+
+# Project Deliverables
+
+Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
+These are due:
+
+- _Proposal_:       Tuesday, January 12, 2016
+- _Milestone_:      Tuesday, January 26, 2016
+- _Milestone_:      Thursday, February 23, 2016
+- _Final Report_:   Monday, March 14, 2016
+
+## Proposal
+
+Your proposal will define your initial plan for this project.
+You can and should update this plan based on feedback, progress, and findings.
+But the proposal needs to demonstrate a robust initial plan for your project.
+The staff will be available for feedback prior to this submission.
+
+Proposals consist of a short document and a short in-class presentation.
+
+### Document
+
+Prepare a one-page document addressing the following points:
+
+- What makes the project interesting? What is the problem or research question?
+
+  What is the pain point you want to solve, the new capability you want to enable, or the research you want to explore?
+
+- What existing understanding of the problem has been developed?
+
+  For a research proposal, this will briefly cover the most important related work in the space you are exploring.
+
+  For a design proposal, this will introduce existing solutions, why they fall short, and the potential opportunity.
+  
+- What milestones will the group plan to accomplish?
+
+  There are two milestone reports in the quarter, one early and one late.
+  These are opportunities for feedback and guidance from staff and classmates.
+
+  Explain what your group will plan to accomplish by each of these milestones.
+  You will be asked to revisit these plans during those milestone reports.
+
+- What might the group explicitly decide to omit?
+
+  Progress requires compromise, as you cannot accomplish everything.
+  Explain what aspects of the project you might choose to ignore or defer in this course.
+  This is your opportunity to scope the project appropriately for this course.
+
+### Presentation
+
+Each group will give a short in-class presentation of their proposal.
+This is an opportunity for feedback from staff and classmates.
+Your presentation should cover the same information as the document.
+
+This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
+
+### Submission
 
 Due: Uploaded the night before class Tuesday, January 12, 2016
 
-Proposals consist of __two parts__: a short written document, and a short presentation.
+`Canvas links to be added here`
 
-### Written document
+Submit your document in PDF format.
 
-Please prepare a one-page document addressing the following points:
+Submit your presentation as no more than three slides in PDF, PPT, or PPTX format.
 
-- _What is the research question or problem?_
+## Milestone Reports
 
-  What is your research exploring, or is the pain point you want to solve, or the new capability you want to enable.
+Two milestone reports serve as a check on the trajectory of your project
+and an opportunity for feedback and guidance from staff and classmates.
+Convey the state of your project and your plans for the remainder of the quarter.
 
-- _What existing understanding of the problem has been developed?_
+Milestone reports consist of a short document and a short in-class presentation.
 
-  For a research proposal, this will briefly cover related work in the space you are exploring.
-  We expect similar for a design proposal, but may be more informed by mainstream media or the team's intuition.
-  
-- _What might the group plan to accomplish?_
- 
-  Given the above, what might a group plan to do in the context of this project?
-  If students choose to work on this project, they will need to define milestones.
-  Convey initial thoughts on appropriate milestones that will allow a group to quickly get started
-  and ultimately make this an interesting and tractable project.
-  
-- _What might the group explicit decide to omit?_
- 
-  This class happens on a very aggressive timeline.
-  Given that, what aspects of the problem might you choose to ignore in a research study or prototype?
-  For a design project, what might you mock or otherwise omit from their prototype?
-  For some projects, this might be a large piece of the overall vision.
-  For other projects, a full implementation or study might be easily in-scope.
-  Either is potentially appropriate, but convey explicit thoughts regarding this.
+### Document
 
-Please submit your document as a PDF.
+Prepare a one-page document addressing the following points:
+
+- What you have done for this milestone, discussing current progress relative to previously stated plans.
+
+- What you will do before your next milestone, including any adaptations based on your status or findings.
+
+- Any areas where you could use advice or are blocked.
 
 ### Presentation
 
-On Tuesday, January 12, 2016 each group will give a brief presentation on their proposal.
-This will be the first opportunity to get feedback from course staff and classmates.
-Your presentation should cover the same points as the written document.
+Each group will give a short in-class presentation of their proposal.
+This is an opportunity for feedback from staff and classmates.
+Your presentation should cover the same information as the document.
 
-Please upload no more than `three` slides for your presentation in .pptx.
+This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
 
-`upload link`
+### Submission
 
-`Sample project links`
+Due: Uploaded the night before class Tuesday, January 26, 2016 and Thursday, February 23, 2016.
 
-# Project progress reports and presentations
+`Canvas links to be added here`
 
-Due: Uploaded the night before class Tuesday, January 26, 2016 and Thursday, February 23, 2016
+Submit your document in PDF format.
 
-Twice during the quarter are progress reports on your projects.
-These serve as a check on the trajectory of your project and an opportunity for peer feedback.
-They should convey the state of your project and your plans for the remainder of the quarter.
-Similar to the proposal, progress reports consist of a written document and a presentation.
+Submit your presentation as no more than three slides in PDF, PPT, or PPTX format.
 
-### Written document
+## Final Report
 
-Please prepare an approximately one-page document addressing the following points:
+Your final report should be presented in the same general structure as the papers you read this quarter:
 
-- What you have done since the last proposal or milestone, discussing current progress relative to previously stated plans for this milestone
-- What you will do before your next milestone, including any adaptations you will make based on your findings or project state
-- Any areas where you could use advice or are blocked
+- Introduction and Motivation
+- Statement of Contributions
+- Related Work
+- Description / Methods / Results
+- Discussion / Future Work / Conclusion
 
-Please submit your document as a PDF.
+Format your report according to the SIGCHI Document Format:
 
-### Presentation
+<https://sigchi.github.io/Document-Formats/>
 
-Your presentation should cover the same points as the written document, with emphasis on providing awareness to and receiving feedback from your peers. Presentations will be `short`, but will include time for questions.
+Your report should be 4 to 10 pages in length, excluding references.
 
-These do not need to be structured as a formal presentation. Please submit your slides in .pptx.
+Write according to the content you have.
+Be appropriately thorough and precise in your presentation, but do not needlessly pad your text.
 
-`upload link`
+Additional guidance regarding effective paper writing can be found in:
 
-# Final report
+<div class="paper" markdown="block">
+Jacob O. Wobbrock.
+[Catchy Titles are Good: But Avoid Being Cute](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf).
+Writing Advice, 2015.
+</div>
 
-Due: Uploaded by the end of the exam period, noon on Monday, March 14, 2016
+### Submission
 
-The report should have the same general structure as a full [CHI](http://chi2016.acm.org/wp/) paper, including an introduction (what is the problem you're trying to solve or research question you're trying to answer?), a description of related work, a methods section that describes the methods you used, results, a conclusion, and (if appropriate) possible directions for further work.
-The paper should be 4-10 pages excluding references (longer if necessary but please try to avoid going over 10 pages).
-Please use the [SIGCHI Document Format](https://github.com/sigchi/Document-Formats) for text and references.
+Due: Uploaded by the end of day Monday, March 14, 2016.
 
-Jake Wobbrock recently wrote a [writing guide for CHI-style papers](http://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf).
+`Canvas link to be added here`
 
-`upload link`
+Submit your document in PDF format.
+

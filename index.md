@@ -53,10 +53,10 @@ __Course Staff__:
 
 Assigned readings will often focus on research topics, generally consisting of:
 
-- A *historic framing* paper: presenting a theory, language, or understanding that can
+- A _historic framing_ paper: presenting a theory, language, or understanding that can
   help in understanding and contextualizing the contributions of additional research.
 
-- Two papers that provide *more recent or specific contributions*:
+- Two papers that provide _more recent or specific contributions_:
   presenting the type of contribution you might initially be expected to attempt in your research.
 
 You are expected to read: (1) the historical framing paper, and (2) either of the more current papers
@@ -96,43 +96,36 @@ Potential topics for discussion are:
 - What new questions or research agendas are suggested by this research?
 - How might this research have informed some other research you have seen?
 
-As we note in [Submission](#submission), participation must be posted by the night before each class meeting. 
-This ensures time to review discussion the next morning before class. 
+As we note in [Submission](#submission), reading discussion must be posted by the night before each class meeting.
+This ensures time to review discussion the next morning before class.
 
-Feel free to continue a discussion, even after class. This is only the grading cutoff.
+Feel free to continue a discussion after this, even after class.
 
 # Project
 
-`This page is still being developed, all content is subject to change`
+A course project will be a major component of your work.
+Details of the project are here:
 
-{% comment %}
-~~~
-Projects are organized around four assignments, each consistent of several milestones:
+<{{ site.url }}{{ site.baseurl }}/assignments/project.html>
 
-- [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
-- [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
-- [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/)
-- [Assignment 4 - Communicating the Design]({{ site.baseurl }}/assignments/assignment4/)
+Dates are also linked from the course calendar.
 
-Example project from prior offerings include:
+Sample project ideas have been made available here:
 
-- [Aqueous](https://courses.cs.washington.edu/courses/cse440/14au/projects/aqueous/)
-- [IEP Connect](https://courses.cs.washington.edu/courses/cse440/14au/projects/iepconnect/)
-- [Ka-Ching](https://courses.cs.washington.edu/courses/cse440/14au/projects/kaching/)
-- [Soundscape](https://courses.cs.washington.edu/courses/cse440/14au/projects/soundscape/)
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-However, these represent examples of strong work in this course.
-~~~
-{% endcomment %}
+`Canvas link to be added here`
 
 # Exam
 
-`This page is still being developed, all content is subject to change`
+There will be a take-home exam asking you to demonstrate your understanding of the material in a more substantive
+form than the required reading reports.
+
+Additional details will be posted here when finalized.
 
 # Statistics Lab
 
-`This page is still being developed, all content is subject to change`
+There will be a statistic lab in which you work through basic analysis and reporting of an HCI experiment.
+
+Additional details will be posted here when finalized.
 
 # Grading
 
@@ -167,4 +160,4 @@ This course website lives on GitHub:
 
 You can submit pull requests to update the website. Instructions for building the site are available here:
 
-[Development Guide]({{ site.baseurl }}/development/)
+<{{ site.url }}{{ site.baseurl }}/development/>
