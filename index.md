@@ -5,7 +5,7 @@ title: Course Overview
 
 # Course Description
 
-Provides an introduction to several major areas of HCI research. 
+The objective of this course is to provide an introduction to several major areas of Human-Computer Interaction (HCI) research. 
 This course is a combination of readings and discussion, a small statistics lab, and a self-defined project.
 
 This course is explicitly not focused on the design methods used in HCI practice. 
@@ -98,41 +98,31 @@ Potential topics for discussion are:
 
 As we note in [Submission](#submission), participation must be posted by the night before each class meeting. 
 This ensures time to review discussion the next morning before class. 
+As noted below, this deadline operationalizes as 4:00am the day of class.
 
 Feel free to continue a discussion, even after class. This is only the grading cutoff.
 
 # Project
 
-`This page is still being developed, all content is subject to change`
+You can choose to design and implement a new piece of HCI technology, or to design and execute a study of existing technology with HCI research implications. We expect that most students will do the project in groups of two, but individual projects or groups of three are possible.
 
-{% comment %}
-~~~
-Projects are organized around four assignments, each consistent of several milestones:
-
-- [Assignment 1 - Project Proposal]({{ site.baseurl }}/assignments/assignment1/)
-- [Assignment 2 - Getting the Right Design]({{ site.baseurl }}/assignments/assignment2/)
-- [Assignment 3 - Getting the Design Right]({{ site.baseurl }}/assignments/assignment3/)
-- [Assignment 4 - Communicating the Design]({{ site.baseurl }}/assignments/assignment4/)
-
-Example project from prior offerings include:
-
-- [Aqueous](https://courses.cs.washington.edu/courses/cse440/14au/projects/aqueous/)
-- [IEP Connect](https://courses.cs.washington.edu/courses/cse440/14au/projects/iepconnect/)
-- [Ka-Ching](https://courses.cs.washington.edu/courses/cse440/14au/projects/kaching/)
-- [Soundscape](https://courses.cs.washington.edu/courses/cse440/14au/projects/soundscape/)
-
-Note that details of assignments may have changed since prior offerings, so their reports may not map to the current project.
-However, these represent examples of strong work in this course.
-~~~
-{% endcomment %}
+More details about the project can be found on the [Project](/assignments/project) page.
 
 # Exam
 
-`This page is still being developed, all content is subject to change`
+This course will have a take-home exam. The exam will be open-note.
+
+The exam will evaluate understanding of and critical thinking about the concepts covered in the readings and classroom discussion. We anticipate all of the questions will be "essay-style." Rather than defining terms or concepts, you will be asked to connect concepts across papers you have read (or potentially a new paper).
+
+While we do not plan to enforce a time limit on the exam, we will offer a rough suggestion for how long to spend on the exam.
 
 # Statistics Lab
 
-`This page is still being developed, all content is subject to change`
+There are a set of statistical skills that are essential in evaluating many kinds of results in HCI, but it isn't always straightforward to acquire them. Courses in the Statistics Department may be more theoretical than you need, while just reading the manual for a statistics package won't provide the fundamentals.
+
+To aid in developing the necessary skills, you will complete a statistics lab. You will analyze two datasets from published research papers in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/). The lab will walk you through analyzing one of the datasets, and you will analyze the other on your own.
+
+More information can be found on the [Statistics lab](/assignments/statisticslab) page.
 
 # Grading
 
