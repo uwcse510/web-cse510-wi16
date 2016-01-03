@@ -1,3 +1,10 @@
+//Palette from http://colorbrewer2.org/, Set3 for qualitative
+@color1: #8dd3c7;
+@color2: #ffffb3;
+@color3: #bebada;
+@color4: #fb8072;
+@color5: #80b1d3;
+
 .calendar {
   margin-top: -15px;
   margin-bottom: -15px;
@@ -10,5 +17,56 @@
     border-style: solid;
     border-width: 1px;
     border-color: @base-body-bg;
+
+    .content {
+      p {
+        margin: 0px;
+      }
+
+      div,ul {
+        padding: 5px;
+        margin: 5px;
+        border-radius: 5px;
+      }
+
+      ul {
+        list-style-position: inside;
+        list-style-type: square;
+      }
+
+      h3 {
+        font-size: @font-size-h5;
+        margin: 10px 0px 5px 0px;
+      }
+
+      .link, .major, .due, .guest, .away {
+        display: inline-block;
+      }
+
+      .link {
+        background-color: @color5;
+      }
+
+      .major {
+        background-color: @color4;
+      }
+
+      .due {
+        background-color: @color3;
+      }
+
+      .guest {
+        background-color: @color2;
+      }
+
+      .away {
+        background-color: @color1;
+      }
+
+      .directions {
+        margin:0px;
+        font-style: italic;
+      }
+    }
   }
 }

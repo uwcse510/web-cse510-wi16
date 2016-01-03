@@ -9,7 +9,7 @@ title: "Project"
 
 Term projects will be a major focus of this course. The project will require hands-on experience with HCI research. You can choose to design and implement a new piece of HCI technology, or to design and execute a study of existing technology with HCI research implications. We expect that most students will do the project in groups of two, but individual projects or groups of three are possible. The project consists of a __proposal__, a pair of __milestones__, and a __final report__.
 
-The course project is worth `99.9999%` of your overall course grade.
+The course project is worth __45%__ of your overall course grade.
 
 # Proposal
 
