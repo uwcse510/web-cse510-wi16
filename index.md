@@ -5,8 +5,8 @@ title: Course Overview
 
 # Course Description
 
-Provides an introduction to several major areas of HCI research. 
-This course is a combination of readings and discussion, a small statistics lab, and a self-defined project.
+This course provides an introduction to several major areas of Human-Computer Interaction (HCI) research.
+It is based in a combination of readings and discussion, a small statistics lab, and a self-defined project.
 
 This course is explicitly not focused on the design methods used in HCI practice. 
 We briefly cover some of these methods near the end of the course, but our focus is on research. 
@@ -103,8 +103,7 @@ Feel free to continue a discussion after this, even after class.
 
 # Project
 
-A course project will be a major component of your work.
-Details of the project are here:
+A course project will be a major component of your work. Details of the project are here:
 
 <{{ site.url }}{{ site.baseurl }}/assignments/project.html>
 
@@ -116,8 +115,11 @@ Sample project ideas have been made available here:
 
 # Exam
 
-There will be a take-home exam asking you to demonstrate your understanding of the material in a more substantive
-form than the required reading reports.
+There will be a open-note, take-home exam asking you to demonstrate your understanding of the material
+in a more substantial format.
+The exam will evaluate your understanding of and critical thinking about concepts covered in this course,
+requiring you to connect concepts across papers.
+The readings will therefore also be important to the exam.
 
 Additional details will be posted here when finalized.
 
@@ -126,6 +128,19 @@ Additional details will be posted here when finalized.
 There will be a statistic lab in which you work through basic analysis and reporting of an HCI experiment.
 
 Additional details will be posted here when finalized.
+
+{% comment %}
+There are a set of statistical skills that are essential in evaluating many kinds of results in HCI,
+but it isn't always straightforward to acquire them.
+Courses in the Statistics Department may be more theoretical than you need,
+while just reading the manual for a statistics package won't provide the fundamentals.
+
+To aid in developing the necessary skills, you will complete a statistics lab.
+You will analyze two datasets from published research papers in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
+The lab will walk you through analyzing one of the datasets, and you will analyze the other on your own.
+
+More information can be found on the [Statistics lab](/assignments/statisticslab) page.
+{% endcomment %}
 
 # Grading
 
