@@ -35,13 +35,13 @@ __Course Staff__:
 <html>
   <div class="row">
     <div class="col-md-2">
-      <a href="http://homes.cs.washington.edu/~jfogarty/">
+      <a href="//homes.cs.washington.edu/~jfogarty/">
         <p>James Fogarty</p>
         <p><img src="{{ site.baseurl }}/images/james_photo.jpg" width="150" alt="James Fogarty"/></p>
       </a>
     </div>
     <div class="col-md-2">
-      <a href="http://www.depstein.net/">
+      <a href="//www.depstein.net/">
         <p>Daniel Epstein</p>
         <p><img src="{{ site.baseurl }}/images/daniel_photo.jpg" width="150" alt="Daniel Epstein"/></p>
       </a>
@@ -95,6 +95,8 @@ Potential topics for discussion are:
 - What idea or innovation enabled this, what more might be done based on that idea or innovation?
 - What new questions or research agendas are suggested by this research?
 - How might this research have informed some other research you have seen?
+- What aspects of this work were particularly well done or effective?
+- If you had conducted this research, what would you have done differently?
 
 As we note in [Submission](#submission), reading discussion must be posted by the night before each class meeting.
 This ensures time to review discussion the next morning before class.
