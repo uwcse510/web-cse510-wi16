@@ -96,7 +96,7 @@ Post your reading report in the appropriate thread:
 ## Project Proposal Presentations / Usability Evaluation Considered Harmful
 
 <div class="major" markdown="block">
-Due: [Project Proposal]({{ site.baseurl }}/assignments/project#proposal)
+Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
 </div>
 
 <div class="directions" markdown="block">
@@ -343,7 +343,7 @@ Post your reading report in the appropriate thread:
 ## Project Progress Presentations
 
 <div class="major" markdown="block">
-Due: [Project Milestone]({{ site.baseurl }}/assignments/project#milestone-reports)
+Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
 </div>
 
 <div class="link" markdown="block">
@@ -670,7 +670,7 @@ Post your reading report in the appropriate thread:
 ## Project Progress Presentations
 
 <div class="major" markdown="block">
-Due: [Project Milestone]({{ site.baseurl }}/assignments/project#milestone-reports)
+Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
 </div>
 
 <div class="link" markdown="block">
@@ -880,7 +880,7 @@ No Class Meeting
 </div>
 
 <div class="major" markdown="block">
-Due: [Final Report]({{ site.baseurl }}/assignments/project#final-report)
+Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
 </div>
 
 <div class="link" markdown="block">
