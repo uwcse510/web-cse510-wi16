@@ -180,17 +180,17 @@ Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovatio
 <div class="link" markdown="block">
 Submit your document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3121657>
 </div>
 <div class="link" markdown="block">
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3121658>
 </div>
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>
 </div>
 
 </div>
