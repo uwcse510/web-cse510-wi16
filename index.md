@@ -111,9 +111,9 @@ A course project will be a major component of your work. Details of the project 
 
 Dates are also linked from the course calendar.
 
-Sample project ideas have been made available here:
+Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3155256>
 
 # Exam
 
