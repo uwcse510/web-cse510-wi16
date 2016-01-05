@@ -48,7 +48,7 @@ or cast a vision of future technologies.
 This is not an exhaustive set of such papers,
 just a set chosen to be interesting and appropriate.
 
-Students will organize into groups of three to four, briefly presenting one of these.
+Students will organize into groups, briefly presenting one of these.
 
 Everyone person will also individually read at least one more of these.
 
@@ -66,7 +66,6 @@ Paul M. Fitts.
 [The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement]({{ site.baseurl }}/readings/fitts1954.pdf). 
 Journal of Experimental Psychology, 1954.
 </li>
-
 <li class="paper" markdown="block">
 Mark Weiser. [The Computer for the 21st Century]({{ site.baseurl }}/readings/weiser1991.pdf). Scientific American, 1991.
 </li>
@@ -112,7 +111,7 @@ One useful way of breaking down and explaining the vision might be to discuss th
 </div>
 
 <div class="link" markdown="block">
-Submit your presentation as three to five slides in PDF, PPT, or PPTX format:
+Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
 `Canvas link to be added here`
 </div>
