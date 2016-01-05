@@ -32,14 +32,13 @@ No Readings Assigned
 ## Visions of Human-Computer Interaction
 
 <div class="directions" markdown="block">
-These "vision" papers challenge a dominant pattern, propose going beyond mimicking prior technologies,
+These "vision" papers challenge a dominant pattern,
+propose going beyond mimicking prior technologies,
 or cast a vision of future technologies.
 
 Students will organize into groups of three to four, briefly presenting one of these.
-No reading report is necessary for the paper you present.
 
 Everyone person will also individually read at least one more of these.
-Submit a reading report for this individual reading.
 
 Note that some of these articles are quite long.
 We are assigning them so that you can see these visions and explore them appropriately.
@@ -73,27 +72,18 @@ Brett Victor. [Magic Ink: Information Software and the Graphical Interface](//wo
 </ul>
 
 <div class="directions" markdown="block">
-Most of us will not have read the paper you are presenting.
-As a consequence, it is your responsibility to explain the author's vision.
-One useful way of explaining the vision might enumerate these four points:
-<ol markdown="block">
-<li markdown="block">
-What was the status quo at the time the authors wrote this?
-</li>
-<li markdown="block">
-What was the author's vision of future technologies?
-</li>
-<li markdown="block">
-How has this vision played out since this publication?
-</li>
-<li markdown="block">
-How might this vision continue to play out in the future?
-</li>
-</ol>
+In presenting this, it is critical to remember most of us will not have read the paper you are presenting.
+It is therefore your responsibility to explain the vision.
+One useful way of breaking down and explaining the vision might be to discuss these four points:
+
+- What was the status quo at the time the authors wrote this?
+- What was the author's vision of future technologies?
+- How has this vision played out since this publication?
+- How might this vision continue to play out in the future?
 </div>
 
 <div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
+Submit your presentation as three to five slides in PDF, PPT, or PPTX format:
 
 `Canvas link to be added here`
 </div>
@@ -111,7 +101,9 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 ## Project Feedback Meetings
 
 <div class="directions" markdown="block">
-Optonal project feedback meetings with course staff. Sign up for a half-hour slot:
+Optional project feedback meetings with course staff.
+
+Sign up for the reserved meeting times here:
 
 <http://doodle.com/poll/6gfw4v8wcqqqfg6i>
 </div>
