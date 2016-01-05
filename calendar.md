@@ -10,7 +10,7 @@ title: Calendar
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 5
+## Tue Jan 5
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Course Overview and HCI History
@@ -26,7 +26,7 @@ No Readings Assigned
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 7
+## Thu Jan 7
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Visions of Human-Computer Interaction
@@ -62,7 +62,7 @@ Pierre Wellner. [Interacting with Paper on the DigitalDesk](//dl.acm.org/citatio
 Be sure to note the video: <http://www.youtube.com/watch?v=S8lCetZ_57g>
 </li>
 <li class="paper" markdown="block">
-Benjamin B. Bederson, James D. Hollan. [Pad++: A Zooming Graphical Interface for Exploring Alternate Interface Physics](http://dl.acm.org/citation.cfm?id=192435). UIST 1994.
+Benjamin B. Bederson, James D. Hollan. [Pad++: A Zooming Graphical Interface for Exploring Alternate Interface Physics](//dl.acm.org/citation.cfm?id=192435). UIST 1994.
 </li>
 <li class="paper" markdown="block">
 Hiroshi Ishii, Brygg Ullmer. [Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms](//dl.acm.org/citation.cfm?id=258715). CHI 1997.
@@ -72,13 +72,28 @@ Brett Victor. [Magic Ink: Information Software and the Graphical Interface](//wo
 </li>
 </ul>
 
+<div class="directions" markdown="block">
+Most of us will not have read the paper you are presenting.
+As a consequence, it is your responsibility to explain the author's vision.
+One useful way of explaining the vision might enumerate these four points:
+<ol markdown="block">
+<li markdown="block">
+What was the status quo at the time the authors wrote this?
+</li>
+<li markdown="block">
+What was the author's vision of future technologies?
+</li>
+<li markdown="block">
+How has this vision played out since this publication?
+</li>
+<li markdown="block">
+How might this vision continue to play out in the future?
+</li>
+</ol>
+</div>
+
 <div class="link" markdown="block">
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
-
-`Canvas link to be added here`
-</div>
-<div class="link" markdown="block">
-Post your reading report in the appropriate thread:
 
 `Canvas link to be added here`
 </div>
@@ -90,7 +105,25 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 12
+## Fri Jan 8
+</div>
+<div class="col-md-10 calcontent" markdown="block">
+## Project Feedback Meetings
+
+<div class="directions" markdown="block">
+Optonal project feedback meetings with course staff. Sign up for a half-hour slot:
+
+<http://doodle.com/poll/6gfw4v8wcqqqfg6i>
+</div>
+
+</div>
+</div>
+
+<!----------------------------------------------------------------------------->
+
+<div class="row">
+<div class="col-md-2" markdown="block">
+## Tue Jan 12
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Proposal Presentations / Usability Evaluation Considered Harmful
@@ -100,21 +133,27 @@ Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
 </div>
 
 <div class="directions" markdown="block">
-Read all of the following:
+Read the following:
 </div>
 
 <ul class="readings" markdown="block">
 
 <li class="paper" markdown="block">
+Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](//dl.acm.org/citation.cfm?id=1357074). CHI 2008.
+</li>
+</ul>
+
+<div class="directions" markdown="block">
+Additional optional readings:
+</div>
+
+<ul class="paper" markdown="block">
+<li class="paper" markdown="block">
 Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.org/stable/1511391). Design Issues Volume 4, Numbers 1 & 2.
 </li>
 
 <li class="paper" markdown="block">
-Donald E. Stokes. `Pasteur's Quadrant: Basic Science and Technological Innovation`. Book Chapter.
-</li>
-
-<li class="paper" markdown="block">
-Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](http://dl.acm.org/citation.cfm?id=1357074). CHI 2008.
+Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation](/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.
 </li>
 </ul>
 
@@ -141,7 +180,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 14
+## Thu Jan 14
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Contributions and Methods in HCI
@@ -247,7 +286,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 19
+## Tue Jan 19
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -292,7 +331,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 21
+## Thu Jan 21
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -337,7 +376,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 26
+## Tue Jan 26
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Progress Presentations
@@ -364,7 +403,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Jan 28
+## Thu Jan 28
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Experimental Design and Analysis
@@ -380,7 +419,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 2
+## Tue Feb 2
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -428,7 +467,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 4
+## Thu Feb 4
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -476,7 +515,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 9
+## Tue Feb 9
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -526,7 +565,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 11
+## Thu Feb 11
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -571,7 +610,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 16
+## Tue Feb 16
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -616,7 +655,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 18
+## Thu Feb 18
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -664,7 +703,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 23
+## Tue Feb 23
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Progress Presentations
@@ -691,7 +730,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Feb 25
+## Thu Feb 25
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -736,7 +775,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Mar 1
+## Tue Mar 1
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -784,7 +823,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Mar 3
+## Thu Mar 3
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
@@ -829,7 +868,7 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Mar 8
+## Tue Mar 8
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## HCI as Design
@@ -854,7 +893,7 @@ Submit your document in PDF format:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Mar 10
+## Thu Mar 10
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## HCI as Design
@@ -870,7 +909,7 @@ No Readings Assigned
 
 <div class="row">
 <div class="col-md-2" markdown="block">
-## Mar 14
+## Mon Mar 14
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Final Report Due

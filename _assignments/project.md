@@ -37,7 +37,17 @@ These are due:
 Your proposal will define your initial plan for this project.
 You can and should update this plan based on feedback, progress, and findings.
 But the proposal needs to demonstrate a robust initial plan for your project.
-The staff will be available for feedback prior to this submission.
+
+The course staff will be available on Friday, January 8th to meet and provide feedback.
+However, meeting with the course staff is optional.
+You can sign up for a half-hour slot on the 8th here:
+<http://doodle.com/poll/6gfw4v8wcqqqfg6i>
+
+If you would like to meet but are not available during any of the slots, you can email the course staff to arrange another time to meet.
+
+You are welcome and even encouraged to align your project with your research goals for the quarter.
+But, it is important to define what you will specifically accomplish as part of the course project.
+The course project must make a self-contained contribution.
 
 Proposals consist of a short document and a short in-class presentation.
 
