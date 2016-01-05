@@ -19,6 +19,16 @@ title: Calendar
 No Readings Assigned
 </div>
 
+<div class="directions" markdown="block">
+Additional optional readings:
+</div>
+
+<ul class="paper" markdown="block">
+<li class="paper" markdown="block">
+Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ site.baseurl }}/readings/grudin2012.pdf). Book Chapter.
+</li>
+</ul>
+
 </div>
 </div>
 
@@ -35,6 +45,8 @@ No Readings Assigned
 These "vision" papers challenge a dominant pattern,
 propose going beyond mimicking prior technologies,
 or cast a vision of future technologies.
+This is not an exhaustive set of such papers,
+just a set chosen to be interesting and appropriate.
 
 Students will organize into groups of three to four, briefly presenting one of these.
 
@@ -50,7 +62,17 @@ You can and should skim according to your needs in consuming these articles.
 Vannevar Bush. [As We May Think](//theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/). The Atlantic, 1945.
 </li>
 <li class="paper" markdown="block">
-Mark Weiser. [The Computer for the 21st Century](/readings/weiser_21st_century.pdf). Scientific American 1991.
+Paul M. Fitts. 
+[The Information Capacity of the Human Motor System in Controlling the Amplitude of Movement]({{ site.baseurl }}/readings/fitts1954.pdf). 
+Journal of Experimental Psychology, 1954.
+</li>
+
+<li class="paper" markdown="block">
+Mark Weiser. [The Computer for the 21st Century]({{ site.baseurl }}/readings/weiser1991.pdf). Scientific American, 1991.
+</li>
+<li class="paper" markdown="block">
+Roy Want, Andy Hopper, Veronica Falcão, and Jonathan Gibbons. 
+[The Active Badge Location System]({{ site.baseurl }}/readings/want1992.pdf). TOIS, 1992.
 </li>
 <li class="paper" markdown="block">
 James D. Hollan, Scott Stornetta. [Beyond Being There](//dl.acm.org/citation.cfm?id=142769). CHI 1992.
@@ -65,6 +87,13 @@ Benjamin B. Bederson, James D. Hollan. [Pad++: A Zooming Graphical Interface for
 </li>
 <li class="paper" markdown="block">
 Hiroshi Ishii, Brygg Ullmer. [Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms](//dl.acm.org/citation.cfm?id=258715). CHI 1997.
+</li>
+<li class="paper" markdown="block">
+Claudio S. Pinhanez. [The Everywhere Displays Projector: A Device to Create Ubiquitous Graphical Interfaces]({{ site.baseurl }}/readings/pinhanez2001.pdf). UbiComp 2001.
+</li>
+<li class="paper" markdown="block">
+Roy Want, Trevor Pering, Gunner Danneels, Muthu Kumar, Murali Sundar, and John Light. 
+[The Personal Server: Changing the Way We Think about Ubiquitous Computing]({{ site.baseurl }}/readings/want2002.pdf). UbiComp 2002.
 </li>
 <li class="paper" markdown="block">
 Brett Victor. [Magic Ink: Information Software and the Graphical Interface](//worrydream.com/MagicInk/). Blog Post, 2006.
@@ -145,7 +174,7 @@ Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.o
 </li>
 
 <li class="paper" markdown="block">
-Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation](/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.
+Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ site.baseurl }}/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.
 </li>
 </ul>
 
@@ -183,7 +212,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Jacob O. Wobbrock. [Seven Research Contributions in HCI](/readings/wobbrock_7_contributions.pdf). White Paper.
+Jacob O. Wobbrock. [Seven Research Contributions in HCI]({{ site.baseurl }}/readings/wobbrock_7_contributions.pdf). White Paper.
 </li>
 </ul>
 
