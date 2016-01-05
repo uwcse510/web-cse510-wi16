@@ -55,6 +55,10 @@ Everyone person will also individually read at least one more of these.
 Note that some of these articles are quite long.
 We are assigning them so that you can see these visions and explore them appropriately.
 You can and should skim according to your needs in consuming these articles.
+
+Sign up to present one article in groups of 2-3:
+
+<http://docs.google.com/document/d/1PwswUeGCwjvzdnHlu4Ei6NMkLlSeaQy6Zom7nRCu1M0/edit?usp=sharing>
 </div>
 
 <ul class="readings" markdown="block">
@@ -113,7 +117,7 @@ One useful way of breaking down and explaining the vision might be to discuss th
 <div class="link" markdown="block">
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
-`Canvas link to be added here`
+<http://canvas.uw.edu/courses/1021534/assignments/3121308>
 </div>
 
 </div>
