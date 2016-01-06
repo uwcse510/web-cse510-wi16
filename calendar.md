@@ -318,9 +318,9 @@ Post your reading report in the appropriate thread:
 ## Tue Jan 19
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Information and Communication Technologies and Development
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Kurtis Heimerl
 </div>
 
 <div class="directions" markdown="block">
