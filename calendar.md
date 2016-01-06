@@ -691,9 +691,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 18
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Accessibility and Ability-Based Design
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Jacob Wobbrock
 </div>
 <div class="away" markdown="block">
 James Away
