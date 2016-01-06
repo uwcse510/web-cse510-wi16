@@ -20,7 +20,9 @@ For example, you might choose to:
 - Replicate an existing technology or study.
 - Execute a sufficiently interesting design problem (i.e., focusing on design without regard to research novelty).
 
-We expect most students will do projects in groups of two, but will consider individuals or groups of three.
+We expect most students will do projects in groups of three. 
+We will consider groups of two, and very strongly discourage individuals.
+Working in groups is a necessary part of doing research, and also important for the logistics of this course.
 
 # Project Deliverables
 
