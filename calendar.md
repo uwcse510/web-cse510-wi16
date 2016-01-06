@@ -153,6 +153,10 @@ Sign up for the reserved meeting times here:
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Proposal Presentations / Usability Evaluation Considered Harmful
 
+<div class="directions" markdown="block">
+Class May Run Long To Accommodate Presentations
+</div>
+
 <div class="major" markdown="block">
 Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
 </div>
@@ -404,7 +408,27 @@ Post your reading report in the appropriate thread:
 ## Tue Jan 26
 </div>
 <div class="col-md-10 calcontent" markdown="block">
+## Experimental Design and Analysis
+
+<div class="directions" markdown="block">
+`? No Readings Assigned ?`
+</div>
+
+</div>
+</div>
+
+<!----------------------------------------------------------------------------->
+
+<div class="row">
+<div class="col-md-2" markdown="block">
+## Thu Jan 28
+</div>
+<div class="col-md-10 calcontent" markdown="block">
 ## Project Progress Presentations
+
+<div class="directions" markdown="block">
+Class May Run Long To Accommodate Presentations
+</div>
 
 <div class="major" markdown="block">
 Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
@@ -419,22 +443,6 @@ Submit your document in PDF format:
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
 `Canvas link to be added here`
-</div>
-
-</div>
-</div>
-
-<!----------------------------------------------------------------------------->
-
-<div class="row">
-<div class="col-md-2" markdown="block">
-## Thu Jan 28
-</div>
-<div class="col-md-10 calcontent" markdown="block">
-## Experimental Design and Analysis
-
-<div class="directions" markdown="block">
-`? No Readings Assigned ?`
 </div>
 
 </div>
@@ -683,9 +691,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 18
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Accessibility and Ability-Based Design
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Jacob Wobbrock
 </div>
 <div class="away" markdown="block">
 James Away
@@ -731,33 +739,6 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 23
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Project Progress Presentations
-
-<div class="major" markdown="block">
-Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
-</div>
-
-<div class="link" markdown="block">
-Submit your document in PDF format:
-
-`Canvas link to be added here`
-</div>
-<div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
-
-`Canvas link to be added here`
-</div>
-
-</div>
-</div>
-
-<!----------------------------------------------------------------------------->
-
-<div class="row">
-<div class="col-md-2" markdown="block">
-## Thu Feb 25
-</div>
-<div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
 <div class="guest" markdown="block">
 Guest: TBD
@@ -789,6 +770,37 @@ Select one of the following to read:
 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
+
+`Canvas link to be added here`
+</div>
+
+</div>
+</div>
+
+<!----------------------------------------------------------------------------->
+
+<div class="row">
+<div class="col-md-2" markdown="block">
+## Thu Feb 25
+</div>
+<div class="col-md-10 calcontent" markdown="block">
+## Project Progress Presentations
+
+<div class="directions" markdown="block">
+Class May Run Long To Accommodate Presentations
+</div>
+
+<div class="major" markdown="block">
+Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+</div>
+
+<div class="link" markdown="block">
+Submit your document in PDF format:
+
+`Canvas link to be added here`
+</div>
+<div class="link" markdown="block">
+Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
 `Canvas link to be added here`
 </div>
