@@ -503,9 +503,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 4
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Interactions with Code
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Andrew Ko
 </div>
 <div class="away" markdown="block">
 James Away
