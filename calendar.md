@@ -184,7 +184,7 @@ Paul Lapides, Apoorve Chokshi, Sheelagh Carpendale, Saul Greenberg. [News Feed: 
 ### Artifact Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Elena L. Glassman, Jeremy Scott, Rishabh Singh, Philip J. Guo, Robert C. Miller. [OverCode: Visualizing Variation in Student Solutions to Programming Problems at Scale](//dl.acm.org/citation.cfm?id=2699751). CHI 2015.
+Loutfouz Zaman, Wolfgang Stuerzlinger, Christian Neugebauer, Rob Woodbury, Maher Elkhaldi, Naghmi Shireen, Michael Terry. [GEM-NI: A System for Creating and Managing Alternatives in Generative Design](//dl.acm.org/citation.cfm?id=2702398). CHI 2015.
 </li>
 <li class="paper" markdown="block">
 John Rooksby, Mattias Rost, Alistair Morrison, Matthew Chalmers. [Pass the Ball: Enforced Turn-Taking in Activity Tracking](//dl.acm.org/citation.cfm?id=2702577). CHI 2015.
