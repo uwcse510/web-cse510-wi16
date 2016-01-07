@@ -87,7 +87,7 @@ Pierre Wellner. [Interacting with Paper on the DigitalDesk](//dl.acm.org/citatio
 Be sure to note the video: <http://www.youtube.com/watch?v=S8lCetZ_57g>
 </li>
 <li class="paper" markdown="block">
-Benjamin B. Bederson, James D. Hollan. [Pad++: A Zooming Graphical Interface for Exploring Alternate Interface Physics](//dl.acm.org/citation.cfm?id=192435). UIST 1994.
+Benjamin B. Bederson, James D. Hollan. [Pad++: A Zooming Graphical Interface for Exploring Alternate Interface Physics]({{ site.baseurl }}/readings/bederson1994.pdf). UIST 1994.
 </li>
 <li class="paper" markdown="block">
 Hiroshi Ishii, Brygg Ullmer. [Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms](//dl.acm.org/citation.cfm?id=258715). CHI 1997.
@@ -318,9 +318,9 @@ Post your reading report in the appropriate thread:
 ## Tue Jan 19
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Information and Communication Technologies and Development
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Kurtis Heimerl
 </div>
 
 <div class="directions" markdown="block">
@@ -503,9 +503,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 4
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Interactions with Code
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Andrew Ko
 </div>
 <div class="away" markdown="block">
 James Away
