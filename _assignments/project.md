@@ -29,9 +29,9 @@ Working in groups is a necessary part of doing research, and also important for 
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
 These are due:
 
-- _Proposal_:       Tuesday, January 12, 2016
-- _Milestone_:      Tuesday, January 26, 2016
-- _Milestone_:      Thursday, February 23, 2016
+- _Proposal_:       Thursday, January 14, 2016
+- _Milestone_:      Thursday, January 28, 2016
+- _Milestone_:      Thursday, February 25, 2016
 - _Final Report_:   Monday, March 14, 2016
 
 ## Proposal
@@ -91,13 +91,15 @@ This is an opportunity for feedback, not a formal presentation. Please be approp
 
 ### Submission
 
-Due: Uploaded the night before class Tuesday, January 12, 2016
-
-`Canvas links to be added here`
+Due: Uploaded the night before class Thursday, January 14, 2016
 
 Submit your document in PDF format.
 
+<https://canvas.uw.edu/courses/1021534/assignments/3121657>
+
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format.
+
+<https://canvas.uw.edu/courses/1021534/assignments/3121658>
 
 ## Milestone Reports
 
@@ -125,7 +127,7 @@ This is an opportunity for feedback, not a formal presentation. Please be approp
 
 ### Submission
 
-Due: Uploaded the night before class Tuesday, January 26, 2016 and Thursday, February 23, 2016.
+Due: Uploaded the night before class Thursday, January 28, 2016 and Thursday, February 25, 2016.
 
 `Canvas links to be added here`
 
@@ -157,7 +159,7 @@ Additional guidance regarding effective paper writing can be found in:
 <div class="paper" markdown="block">
 Jacob O. Wobbrock.
 [Catchy Titles are Good: But Avoid Being Cute](https://faculty.washington.edu/wobbrock/pubs/Wobbrock-2015.pdf).
-Writing Advice, 2015.
+Writing Advice, White Paper, 2015.
 </div>
 
 ### Submission
