@@ -87,7 +87,7 @@ Pierre Wellner. [Interacting with Paper on the DigitalDesk](//dl.acm.org/citatio
 Be sure to note the video: <http://www.youtube.com/watch?v=S8lCetZ_57g>
 </li>
 <li class="paper" markdown="block">
-Benjamin B. Bederson, James D. Hollan. [Pad++: A Zooming Graphical Interface for Exploring Alternate Interface Physics](//dl.acm.org/citation.cfm?id=192435). UIST 1994.
+Benjamin B. Bederson, James D. Hollan. [Pad++: A Zooming Graphical Interface for Exploring Alternate Interface Physics]({{ site.baseurl }}/readings/bederson1994.pdf). UIST 1994.
 </li>
 <li class="paper" markdown="block">
 Hiroshi Ishii, Brygg Ullmer. [Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms](//dl.acm.org/citation.cfm?id=258715). CHI 1997.
@@ -149,63 +149,6 @@ Sign up for the reserved meeting times here:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Jan 12
-</div>
-<div class="col-md-10 calcontent" markdown="block">
-## Project Proposal Presentations / Usability Evaluation Considered Harmful
-
-<div class="major" markdown="block">
-Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
-</div>
-
-<div class="directions" markdown="block">
-Read the following:
-</div>
-
-<ul class="readings" markdown="block">
-
-<li class="paper" markdown="block">
-Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](//dl.acm.org/citation.cfm?id=1357074). CHI 2008.
-</li>
-</ul>
-
-<div class="directions" markdown="block">
-Additional optional readings:
-</div>
-
-<ul class="paper" markdown="block">
-<li class="paper" markdown="block">
-Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.org/stable/1511391). Design Issues Volume 4, Numbers 1 & 2.
-</li>
-
-<li class="paper" markdown="block">
-Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ site.baseurl }}/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.
-</li>
-</ul>
-
-<div class="link" markdown="block">
-Submit your document in PDF format:
-
-<https://canvas.uw.edu/courses/1021534/assignments/3121657>
-</div>
-<div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
-
-<https://canvas.uw.edu/courses/1021534/assignments/3121658>
-</div>
-<div class="link" markdown="block">
-Post your reading report in the appropriate thread:
-
-<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>
-</div>
-
-</div>
-</div>
-
-<!----------------------------------------------------------------------------->
-
-<div class="row">
-<div class="col-md-2" markdown="block">
-## Thu Jan 14
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Contributions and Methods in HCI
@@ -311,12 +254,73 @@ Post your reading report in the appropriate thread:
 
 <div class="row">
 <div class="col-md-2" markdown="block">
+## Thu Jan 14
+</div>
+<div class="col-md-10 calcontent" markdown="block">
+## Project Proposal Presentations / Usability Evaluation Considered Harmful
+
+<div class="directions" markdown="block">
+Class May Run Long To Accommodate Presentations
+</div>
+
+<div class="major" markdown="block">
+Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
+</div>
+
+<div class="directions" markdown="block">
+Read the following:
+</div>
+
+<ul class="readings" markdown="block">
+
+<li class="paper" markdown="block">
+Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)](//dl.acm.org/citation.cfm?id=1357074). CHI 2008.
+</li>
+</ul>
+
+<div class="directions" markdown="block">
+Additional optional readings:
+</div>
+
+<ul class="paper" markdown="block">
+<li class="paper" markdown="block">
+Herbert A. Simon. [The Science of Design: Creating the Artificial](//www.jstor.org/stable/1511391). Design Issues Volume 4, Numbers 1 & 2.
+</li>
+
+<li class="paper" markdown="block">
+Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ site.baseurl }}/readings/stokes_pasteurs_quadrant.pdf). Book Chapter.
+</li>
+</ul>
+
+<div class="link" markdown="block">
+Submit your document in PDF format:
+
+<https://canvas.uw.edu/courses/1021534/assignments/3121657>
+</div>
+<div class="link" markdown="block">
+Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
+
+<https://canvas.uw.edu/courses/1021534/assignments/3121658>
+</div>
+<div class="link" markdown="block">
+Post your reading report in the appropriate thread:
+
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>
+</div>
+
+</div>
+</div>
+
+<!----------------------------------------------------------------------------->
+
+<div class="row">
+<div class="col-md-2" markdown="block">
 ## Tue Jan 19
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Information and Communication Technologies and Development
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Kurtis Heimerl
 </div>
 
 <div class="directions" markdown="block">
@@ -404,7 +408,27 @@ Post your reading report in the appropriate thread:
 ## Tue Jan 26
 </div>
 <div class="col-md-10 calcontent" markdown="block">
+## Experimental Design and Analysis
+
+<div class="directions" markdown="block">
+`? No Readings Assigned ?`
+</div>
+
+</div>
+</div>
+
+<!----------------------------------------------------------------------------->
+
+<div class="row">
+<div class="col-md-2" markdown="block">
+## Thu Jan 28
+</div>
+<div class="col-md-10 calcontent" markdown="block">
 ## Project Progress Presentations
+
+<div class="directions" markdown="block">
+Class May Run Long To Accommodate Presentations
+</div>
 
 <div class="major" markdown="block">
 Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
@@ -419,22 +443,6 @@ Submit your document in PDF format:
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
 `Canvas link to be added here`
-</div>
-
-</div>
-</div>
-
-<!----------------------------------------------------------------------------->
-
-<div class="row">
-<div class="col-md-2" markdown="block">
-## Thu Jan 28
-</div>
-<div class="col-md-10 calcontent" markdown="block">
-## Experimental Design and Analysis
-
-<div class="directions" markdown="block">
-`? No Readings Assigned ?`
 </div>
 
 </div>
@@ -495,9 +503,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 4
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Interactions with Code
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Andrew Ko
 </div>
 <div class="away" markdown="block">
 James Away
@@ -509,7 +517,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Andrew J. Ko, Brad A. Myers, and Htet Htet Aung. [Six Learning Barriers in End-User Programming Systems](//dx.doi.org/10.1109/VLHCC.2004.47). VL/HCC 2004.
 </li>
 </ul>
 
@@ -519,11 +527,11 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Greg Little and Robert C. Miller. [Translating Keyword Commands into Executable Code](//dx.doi.org/10.1145/1166253.1166275). UIST 2006.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Andrew J. Ko and Brad A. Myers. [Finding causes of program output with the Java Whyline](//dx.doi.org/10.1145/1518701.1518942). CHI 2009.
 </li>
 </ul>
 
@@ -683,9 +691,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 18
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Accessibility and Ability-Based Design
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Jacob Wobbrock
 </div>
 <div class="away" markdown="block">
 James Away
@@ -731,33 +739,6 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 23
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Project Progress Presentations
-
-<div class="major" markdown="block">
-Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
-</div>
-
-<div class="link" markdown="block">
-Submit your document in PDF format:
-
-`Canvas link to be added here`
-</div>
-<div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
-
-`Canvas link to be added here`
-</div>
-
-</div>
-</div>
-
-<!----------------------------------------------------------------------------->
-
-<div class="row">
-<div class="col-md-2" markdown="block">
-## Thu Feb 25
-</div>
-<div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
 <div class="guest" markdown="block">
 Guest: TBD
@@ -789,6 +770,37 @@ Select one of the following to read:
 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
+
+`Canvas link to be added here`
+</div>
+
+</div>
+</div>
+
+<!----------------------------------------------------------------------------->
+
+<div class="row">
+<div class="col-md-2" markdown="block">
+## Thu Feb 25
+</div>
+<div class="col-md-10 calcontent" markdown="block">
+## Project Progress Presentations
+
+<div class="directions" markdown="block">
+Class May Run Long To Accommodate Presentations
+</div>
+
+<div class="major" markdown="block">
+Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-reports)
+</div>
+
+<div class="link" markdown="block">
+Submit your document in PDF format:
+
+`Canvas link to be added here`
+</div>
+<div class="link" markdown="block">
+Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
 `Canvas link to be added here`
 </div>
