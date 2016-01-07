@@ -517,7 +517,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Andrew J. Ko, Brad A. Myers, and Htet Htet Aung. [Six Learning Barriers in End-User Programming Systems](//dx.doi.org/10.1109/VLHCC.2004.47). VL/HCC 2004.
 </li>
 </ul>
 
@@ -527,11 +527,11 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Greg Little and Robert C. Miller. [Translating Keyword Commands into Executable Code](//dx.doi.org/10.1145/1166253.1166275). UIST 2006.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Andrew J. Ko and Brad A. Myers. [Finding causes of program output with the Java Whyline](//dx.doi.org/10.1145/1518701.1518942). CHI 2009.
 </li>
 </ul>
 
