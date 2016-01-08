@@ -601,9 +601,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 11
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Touch Input
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Christian Holz
 </div>
 
 <div class="directions" markdown="block">
