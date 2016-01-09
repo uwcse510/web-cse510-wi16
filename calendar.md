@@ -174,70 +174,70 @@ You can and should skim according to your needs in consuming these articles.
 ### Empirical Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Frank R. Bentley, Ying-Yu Chen. [The Composition and Use of Modern Mobile Phonebooks](//dl.acm.org/citation.cfm?id=2702182). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Paul Lapides, Apoorve Chokshi, Sheelagh Carpendale, Saul Greenberg. [News Feed: What's in it for Me?](//dl.acm.org/citation.cfm?id=2702554). CHI 2015.
 </li>
 </ul>
 
 ### Artifact Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Loutfouz Zaman, Wolfgang Stuerzlinger, Christian Neugebauer, Rob Woodbury, Maher Elkhaldi, Naghmi Shireen, Michael Terry. [GEM-NI: A System for Creating and Managing Alternatives in Generative Design](//dl.acm.org/citation.cfm?id=2702398). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+John Rooksby, Mattias Rost, Alistair Morrison, Matthew Chalmers. [Pass the Ball: Enforced Turn-Taking in Activity Tracking](//dl.acm.org/citation.cfm?id=2702577). CHI 2015.
 </li>
 </ul>
 
 ### Methodological Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Anna Luusua, Juhanna Ylipulli, Marko Jurmu, Henrika Pihlajaniemi, Piia Markkanen, Timo Ojala. [Evaluation Probes](//dl.acm.org/citation.cfm?id=2702466). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Kevin Chen, Haoqi Zhang. [Remote Paper Prototype Testing](//dl.acm.org/citation.cfm?id=2702423). CHI 2015.
 </li>
 </ul>
 
 ### Theoretical Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Daniel Avrahami. [The Effect of Edge Targets on Touch Performance](//dl.acm.org/citation.cfm?id=2702439). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Xiuli Chen, Gilles Bailly, Duncan P. Brumby, Antti Oulasvirta, Andrew Howes. [The Emergence of Interactive Behavior: A Model of Rational Menu Search](//dl.acm.org/citation.cfm?id=2702483). CHI 2015.
 </li>
 </ul>
 
 ### Benchmark/Dataset Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Aliaksei Miniukovich, Antonella De Angeli. [Computation of Interface Aesthetics](//dl.acm.org/citation.cfm?id=2702575). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+François Bérard, Amélie Rochet-Capellan. [The Transfer of Learning as HCI Similarity: Towards an Objective Assessment of the Sensory-Motor Basis of Naturalness](//dl.acm.org/citation.cfm?id=2702359). CHI 2015.
 </li>
 </ul>
 
 ### Survey Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Eric P.S. Baumer. [Reflective Informatics: Conceptual Dimensions for Designing Technologies of Reflection](//dl.acm.org/citation.cfm?id=2702234). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Audrey Desjardins, Ron Wakkary, William Odom. [Investigating Genres and Perspectives in HCI Research on the Home](//dl.acm.org/citation.cfm?id=2702540). CHI 2015.
 </li>
 </ul>
 
 ### Opinion Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Shaun Lawson, Ben Kirman, Conor Linehan, Tom Feltwell, Lisa Hopkins. [Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs](//dl.acm.org/citation.cfm?id=2702260). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?](//dl.acm.org/citation.cfm?id=2702194). CHI 2015.
 </li>
 </ul>
 
