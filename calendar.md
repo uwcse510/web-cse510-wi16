@@ -164,11 +164,11 @@ Jacob O. Wobbrock. [Seven Research Contributions in HCI]({{ site.baseurl }}/read
 </ul>
 
 <div class="directions" markdown="block">
-Select two of the following to read:
+Below are examples of papers from CHI 2015 that correspond to Wobbrock's types of research contribution in HCI.
 
-Choose papers that are most likely to correspond to the contribution style(s) relevant in your project.
-Comparing and contrasting two papers is therefore intended to help you think critically about the method.
-You can and should skim according to your needs in consuming these articles.
+Select two to review, focusing on papers that are most likely to correspond to the contribution style(s) relevant in your project.
+You should not focus on the details of these papers, but rather their organization of the research and how it is presented.
+We surface them to provide concrete examples of the contributions, but our in-class discussion will focus on Wobbrock's paper.
 </div>
 
 ### Empirical Papers
@@ -240,12 +240,6 @@ Shaun Lawson, Ben Kirman, Conor Linehan, Tom Feltwell, Lisa Hopkins. [Problemati
 Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?](//dl.acm.org/citation.cfm?id=2702194). CHI 2015.
 </li>
 </ul>
-
-<div class="link" markdown="block">
-Post your reading report in the appropriate thread:
-
-`Canvas link to be added here`
-</div>
 
 </div>
 </div>
