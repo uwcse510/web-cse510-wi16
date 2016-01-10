@@ -173,7 +173,17 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Jacob O. Wobbrock. [Seven Research Contributions in HCI]({{ site.baseurl }}/readings/wobbrock_7_contributions.pdf). White Paper.
+Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ site.baseurl }}/readings/wobbrock_7contributions_submitted.pdf). White Paper.
+</li>
+</ul>
+
+<div class="directions" markdown="block">
+You may have already read the following paper, which was an earlier draft. That is fine:
+</div>
+
+<ul class="readings" markdown="block">
+<li class="paper" markdown="block">
+Jacob O. Wobbrock. [Seven Research Contributions in HCI]({{ site.baseurl }}/readings/wobbrock_7contributions.pdf). White Paper.
 </li>
 </ul>
 
