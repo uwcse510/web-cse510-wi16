@@ -173,7 +173,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ site.baseurl }}/readings/wobbrock_7contributions_submitted.pdf). White Paper.
+Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ site.baseurl }}/readings/wobbrock_7contributions_submitted.pdf). Submitted for Review.
 </li>
 </ul>
 
