@@ -11,10 +11,14 @@ title: Calendar
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Jan 5
-\[[slides]({{ site.baseurl }}/slides/01-OverviewHistory.pdf)\]
+\[[Slides]({{ site.baseurl }}/slides/01-OverviewHistory.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Course Overview and HCI History
+
+\[<a data-toggle="collapse" href="#collapse0105">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0105">
 
 <div class="directions" markdown="block">
 No Readings Assigned
@@ -32,6 +36,7 @@ Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]
 
 </div>
 </div>
+</div>
 
 <!----------------------------------------------------------------------------->
 
@@ -42,6 +47,9 @@ Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]
 <div class="col-md-10 calcontent" markdown="block">
 ## Visions of Human-Computer Interaction
 
+\[<a data-toggle="collapse" href="#collapse0107">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0107">
 <div class="directions" markdown="block">
 These "vision" papers challenge a dominant pattern,
 propose going beyond mimicking prior technologies,
@@ -123,6 +131,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 
 </div>
 </div>
+</div>
 
 <!----------------------------------------------------------------------------->
 
@@ -133,6 +142,10 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Feedback Meetings
 
+\[<a data-toggle="collapse" href="#collapse0108">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0108">
+
 <div class="directions" markdown="block">
 Optional project feedback meetings with course staff.
 
@@ -141,6 +154,7 @@ Sign up for the reserved meeting times here:
 <http://doodle.com/poll/6gfw4v8wcqqqfg6i>
 </div>
 
+</div>
 </div>
 </div>
 
