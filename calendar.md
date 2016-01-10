@@ -11,7 +11,7 @@ title: Calendar
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Jan 5
-\[[slides]({{ site.baseurl }}/slides/01-OverviewHistory.pdf)\]
+\[[Slides]({{ site.baseurl }}/slides/01-OverviewHistory.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Course Overview and HCI History
