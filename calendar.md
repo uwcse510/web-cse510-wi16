@@ -347,7 +347,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Eric Brewer, Michael Demmer, Bowei Du, Melissa Ho, Matthew Kam, Sergiu Nedevschi, Joyojeet Pal, Rabin Patra, Sonesh Surana, Kevin Fall. [The Case for Technology in Developing Regions](//ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=1439449). IEEE Computer Magazine, 2005.
 </li>
 </ul>
 
@@ -357,18 +357,18 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Yaw Anokwa, Thomas N. Smyth, Divya Ramachandran, Jahanzeb Sherwani, Yael Schwartzman, Rowena Luk, Melissa Ho, Neema Moraveji, Brian DeRenzi. [Stories from the Field: Reflections on HCI4D Experiences](//www.itidjournal.org/index.php/itid/article/view/427). ITID Journal, 2009.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Kurtis Heimerl, Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks](//itidjournal.org/index.php/itid/article/view/1359). ITID Journal, 2013.
 </li>
 </ul>
 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3169401>
 </div>
 
 </div>
