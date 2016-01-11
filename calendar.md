@@ -11,10 +11,14 @@ title: Calendar
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Jan 5
-\[[slides]({{ site.baseurl }}/slides/01-OverviewHistory.pdf)\]
+\[[Slides]({{ site.baseurl }}/slides/01-OverviewHistory.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Course Overview and HCI History
+
+\[<a data-toggle="collapse" href="#collapse0105">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0105">
 
 <div class="directions" markdown="block">
 No Readings Assigned
@@ -32,6 +36,7 @@ Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]
 
 </div>
 </div>
+</div>
 
 <!----------------------------------------------------------------------------->
 
@@ -42,6 +47,9 @@ Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]
 <div class="col-md-10 calcontent" markdown="block">
 ## Visions of Human-Computer Interaction
 
+\[<a data-toggle="collapse" href="#collapse0107">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0107">
 <div class="directions" markdown="block">
 These "vision" papers challenge a dominant pattern,
 propose going beyond mimicking prior technologies,
@@ -123,6 +131,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 
 </div>
 </div>
+</div>
 
 <!----------------------------------------------------------------------------->
 
@@ -133,6 +142,10 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Feedback Meetings
 
+\[<a data-toggle="collapse" href="#collapse0108">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0108">
+
 <div class="directions" markdown="block">
 Optional project feedback meetings with course staff.
 
@@ -141,6 +154,7 @@ Sign up for the reserved meeting times here:
 <http://doodle.com/poll/6gfw4v8wcqqqfg6i>
 </div>
 
+</div>
 </div>
 </div>
 
@@ -159,93 +173,97 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Jacob O. Wobbrock. [Seven Research Contributions in HCI]({{ site.baseurl }}/readings/wobbrock_7_contributions.pdf). White Paper.
+Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ site.baseurl }}/readings/wobbrock_7contributions_submitted.PDF). Submitted for Review.
 </li>
 </ul>
 
 <div class="directions" markdown="block">
-Select two of the following to read:
+You may have already read the following paper, which was an earlier draft. That is fine:
+</div>
 
-Choose papers that are most likely to correspond to the contribution style(s) relevant in your project.
-Comparing and contrasting two papers is therefore intended to help you think critically about the method.
-You can and should skim according to your needs in consuming these articles.
+<ul class="readings" markdown="block">
+<li class="paper" markdown="block">
+Jacob O. Wobbrock. [Seven Research Contributions in HCI]({{ site.baseurl }}/readings/wobbrock_7contributions.pdf). White Paper.
+</li>
+</ul>
+
+<div class="directions" markdown="block">
+Below are examples of papers from CHI 2015 that correspond to Wobbrock's types of research contribution in HCI.
+
+Select two to review, focusing on papers that are most likely to correspond to the contribution style(s) relevant in your project.
+You should not focus on the details of these papers, but rather their organization of the research and how it is presented.
+We surface them to provide concrete examples of the contributions, but our in-class discussion will focus on Wobbrock's paper.
 </div>
 
 ### Empirical Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Frank R. Bentley, Ying-Yu Chen. [The Composition and Use of Modern Mobile Phonebooks](//dl.acm.org/citation.cfm?id=2702182). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Paul Lapides, Apoorve Chokshi, Sheelagh Carpendale, Saul Greenberg. [News Feed: What's in it for Me?](//dl.acm.org/citation.cfm?id=2702554). CHI 2015.
 </li>
 </ul>
 
 ### Artifact Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Loutfouz Zaman, Wolfgang Stuerzlinger, Christian Neugebauer, Rob Woodbury, Maher Elkhaldi, Naghmi Shireen, Michael Terry. [GEM-NI: A System for Creating and Managing Alternatives in Generative Design](//dl.acm.org/citation.cfm?id=2702398). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+John Rooksby, Mattias Rost, Alistair Morrison, Matthew Chalmers. [Pass the Ball: Enforced Turn-Taking in Activity Tracking](//dl.acm.org/citation.cfm?id=2702577). CHI 2015.
 </li>
 </ul>
 
 ### Methodological Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Anna Luusua, Juhanna Ylipulli, Marko Jurmu, Henrika Pihlajaniemi, Piia Markkanen, Timo Ojala. [Evaluation Probes](//dl.acm.org/citation.cfm?id=2702466). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Kevin Chen, Haoqi Zhang. [Remote Paper Prototype Testing](//dl.acm.org/citation.cfm?id=2702423). CHI 2015.
 </li>
 </ul>
 
 ### Theoretical Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Daniel Avrahami. [The Effect of Edge Targets on Touch Performance](//dl.acm.org/citation.cfm?id=2702439). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Xiuli Chen, Gilles Bailly, Duncan P. Brumby, Antti Oulasvirta, Andrew Howes. [The Emergence of Interactive Behavior: A Model of Rational Menu Search](//dl.acm.org/citation.cfm?id=2702483). CHI 2015.
 </li>
 </ul>
 
 ### Benchmark/Dataset Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Aliaksei Miniukovich, Antonella De Angeli. [Computation of Interface Aesthetics](//dl.acm.org/citation.cfm?id=2702575). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+François Bérard, Amélie Rochet-Capellan. [The Transfer of Learning as HCI Similarity: Towards an Objective Assessment of the Sensory-Motor Basis of Naturalness](//dl.acm.org/citation.cfm?id=2702359). CHI 2015.
 </li>
 </ul>
 
 ### Survey Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Eric P.S. Baumer. [Reflective Informatics: Conceptual Dimensions for Designing Technologies of Reflection](//dl.acm.org/citation.cfm?id=2702234). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Audrey Desjardins, Ron Wakkary, William Odom. [Investigating Genres and Perspectives in HCI Research on the Home](//dl.acm.org/citation.cfm?id=2702540). CHI 2015.
 </li>
 </ul>
 
 ### Opinion Papers
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`TBD`
+Shaun Lawson, Ben Kirman, Conor Linehan, Tom Feltwell, Lisa Hopkins. [Problematising Upstream Technology through Speculative Design: The Case of Quantified Cats and Dogs](//dl.acm.org/citation.cfm?id=2702260). CHI 2015.
 </li>
 <li class="paper" markdown="block">
-`TBD`
+Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They Still Here, What's Wrong With Them, and How Can We Fix Them?](//dl.acm.org/citation.cfm?id=2702194). CHI 2015.
 </li>
 </ul>
-
-<div class="link" markdown="block">
-Post your reading report in the appropriate thread:
-
-`Canvas link to be added here`
-</div>
 
 </div>
 </div>
@@ -601,9 +619,9 @@ Post your reading report in the appropriate thread:
 ## Thu Feb 11
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Touch Input
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Christian Holz
 </div>
 
 <div class="directions" markdown="block">
