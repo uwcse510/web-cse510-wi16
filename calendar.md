@@ -339,7 +339,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Information and Communication Technologies and Development
 <div class="guest" markdown="block">
-Guest: Kurtis Heimerl
+Guest: [Kurtis Heimerl](//www.eecs.berkeley.edu/~kheimerl/)
 </div>
 
 <div class="directions" markdown="block">
@@ -524,7 +524,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Interactions with Code
 <div class="guest" markdown="block">
-Guest: Andrew Ko
+Guest: [Andrew Ko](//faculty.washington.edu/ajko/)
 </div>
 <div class="away" markdown="block">
 James Away
@@ -622,7 +622,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Touch Input
 <div class="guest" markdown="block">
-Guest: Christian Holz
+Guest: [Christian Holz](//www.christianholz.net/)
 </div>
 
 <div class="directions" markdown="block">
@@ -712,7 +712,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Accessibility and Ability-Based Design
 <div class="guest" markdown="block">
-Guest: Jacob Wobbrock
+Guest: [Jacob Wobbrock](//faculty.washington.edu/wobbrock/)
 </div>
 <div class="away" markdown="block">
 James Away
