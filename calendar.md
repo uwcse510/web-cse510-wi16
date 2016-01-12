@@ -179,6 +179,16 @@ Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer In
 </ul>
 
 <div class="directions" markdown="block">
+You may have already read the following paper, which was an earlier draft. That is fine:
+</div>
+
+<ul class="readings" markdown="block">
+<li class="paper" markdown="block">
+Jacob O. Wobbrock. [Seven Research Contributions in HCI]({{ site.baseurl }}/readings/wobbrock_7contributions.pdf). White Paper.
+</li>
+</ul>
+
+<div class="directions" markdown="block">
 Below are examples of papers from CHI 2015 that correspond to Wobbrock's types of research contribution in HCI.
 
 Select two to review, focusing on papers that are most likely to correspond to the contribution style(s) relevant in your project.
