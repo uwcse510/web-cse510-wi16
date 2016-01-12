@@ -760,7 +760,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: [Mako Hill](https://mako.cc/)
 </div>
 
 <div class="directions" markdown="block">
@@ -834,9 +834,9 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 ## Tue Mar 1
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Interactive Machine Learning
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: [Saleema Amershi](http://research.microsoft.com/en-us/um/people/samershi/)
 </div>
 <div class="away" markdown="block">
 Daniel Away
