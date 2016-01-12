@@ -760,7 +760,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: TBD
 <div class="guest" markdown="block">
-Guest: [Mako Hill[(https://mako.cc/)
+Guest: [Mako Hill](https://mako.cc/)
 </div>
 
 <div class="directions" markdown="block">
