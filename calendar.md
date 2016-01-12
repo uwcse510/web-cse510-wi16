@@ -163,6 +163,7 @@ Sign up for the reserved meeting times here:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Jan 12
+\[[Slides]({{ site.baseurl }}/slides/03-ContributionsInHCI.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Contributions and Methods in HCI
