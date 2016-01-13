@@ -168,6 +168,9 @@ Sign up for the reserved meeting times here:
 <div class="col-md-10 calcontent" markdown="block">
 ## Contributions and Methods in HCI
 
+\[<a data-toggle="collapse" href="#collapse0112">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0112">
 <div class="directions" markdown="block">
 Read the following framing paper:
 </div>
@@ -266,6 +269,7 @@ Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They St
 </li>
 </ul>
 
+</div>
 </div>
 </div>
 
