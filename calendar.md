@@ -282,6 +282,9 @@ Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They St
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Proposal Presentations / Usability Evaluation Considered Harmful
 
+\[<a data-toggle="collapse" href="#collapse0114">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0114">
 <div class="directions" markdown="block">
 Class May Run Long To Accommodate Presentations
 </div>
@@ -331,6 +334,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>
 </div>
 
+</div>
 </div>
 </div>
 
