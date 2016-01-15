@@ -390,10 +390,7 @@ Post your reading report in the appropriate thread:
 ## Thu Jan 21
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
-<div class="guest" markdown="block">
-Guest: TBD
-</div>
+## Research Topic: Design Tools
 
 <div class="directions" markdown="block">
 Read the following framing paper:
@@ -482,9 +479,9 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 ## Tue Feb 2
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Extending HCI Principles to Other Cultures and Countries
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Katharina Reinecke
 </div>
 <div class="away" markdown="block">
 James Away
@@ -673,9 +670,9 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 16
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Technology and Behavior Change
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Pedja Klasnja
 </div>
 
 <div class="directions" markdown="block">
