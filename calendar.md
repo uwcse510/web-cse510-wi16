@@ -575,9 +575,9 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 9
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Augmented and Virtual Reality
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Hrvoje Benko
 </div>
 <div class="major" markdown="block">
 Due: [Statistics lab](/assignments/statisticslab)
@@ -887,10 +887,7 @@ Post your reading report in the appropriate thread:
 ## Thu Mar 3
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
-<div class="guest" markdown="block">
-Guest: TBD
-</div>
+## Research Topic: Interface Toolkits
 
 <div class="directions" markdown="block">
 Read the following framing paper:
