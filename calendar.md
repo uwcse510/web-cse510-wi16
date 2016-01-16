@@ -398,7 +398,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: an informal web site design tool inspired by observations of practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.
 </li>
 </ul>
 
@@ -408,18 +408,19 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface
+for Collaborative Web Site Design](//dl.acm.org/citation.cfm?id=502350). UIST 2001.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective physical prototyping through integrated design, test, and analysis](//dl.acm.org/citation.cfm?id=1166300). UIST 2006.
 </li>
 </ul>
 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3179161>
 </div>
 
 </div>
@@ -493,7 +494,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Katharina Reinecke, Krzysztof Z. Gajos. [LabintheWild: Conducting Large-Scale Online Experiments With Uncompensated Samples](//dl.acm.org/citation.cfm?id=2675246). CSCW 2015.
 </li>
 </ul>
 
