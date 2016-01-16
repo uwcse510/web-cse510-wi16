@@ -578,7 +578,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Augmented and Virtual Reality
 <div class="guest" markdown="block">
-Guest: Hrvoje Benko
+Guest: [Hrvoje Benko](//research.microsoft.com/en-us/um/people/benko/)
 </div>
 <div class="major" markdown="block">
 Due: [Statistics lab](/assignments/statisticslab)
