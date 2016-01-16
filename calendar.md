@@ -481,7 +481,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Extending HCI Principles to Other Cultures and Countries
 <div class="guest" markdown="block">
-Guest: Katharina Reinecke
+Guest: [Katharina Reinecke](//homes.cs.washington.edu/~reinecke/)
 </div>
 <div class="away" markdown="block">
 James Away
@@ -672,7 +672,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Technology and Behavior Change
 <div class="guest" markdown="block">
-Guest: Pedja Klasnja
+Guest: [Pedja Klasnja](//www.pedjaklasnja.com/)
 </div>
 
 <div class="directions" markdown="block">
