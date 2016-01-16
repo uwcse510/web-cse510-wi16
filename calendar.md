@@ -282,6 +282,9 @@ Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They St
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Proposal Presentations / Usability Evaluation Considered Harmful
 
+\[<a data-toggle="collapse" href="#collapse0114">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0114">
 <div class="directions" markdown="block">
 Class May Run Long To Accommodate Presentations
 </div>
@@ -331,6 +334,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3159098>
 </div>
 
+</div>
 </div>
 </div>
 
@@ -386,10 +390,7 @@ Post your reading report in the appropriate thread:
 ## Thu Jan 21
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
-<div class="guest" markdown="block">
-Guest: TBD
-</div>
+## Research Topic: Design Tools
 
 <div class="directions" markdown="block">
 Read the following framing paper:
@@ -478,9 +479,9 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 ## Tue Feb 2
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Extending HCI Principles to Other Cultures and Countries
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Katharina Reinecke
 </div>
 <div class="away" markdown="block">
 James Away
@@ -669,9 +670,9 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 16
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Technology and Behavior Change
 <div class="guest" markdown="block">
-Guest: TBD
+Guest: Pedja Klasnja
 </div>
 
 <div class="directions" markdown="block">
