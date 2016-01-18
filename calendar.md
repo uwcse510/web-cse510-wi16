@@ -398,7 +398,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: an informal web site design tool inspired by observations of practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.
+Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: an Informal Web Site Design Tool Inspired by Observations of Practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.
 </li>
 </ul>
 
@@ -413,7 +413,7 @@ for Collaborative Web Site Design](//dl.acm.org/citation.cfm?id=502350). UIST 20
 </li>
 
 <li class="paper" markdown="block">
-Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective physical prototyping through integrated design, test, and analysis](//dl.acm.org/citation.cfm?id=1166300). UIST 2006.
+Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis](//dl.acm.org/citation.cfm?id=1166300). UIST 2006.
 </li>
 </ul>
 
@@ -556,7 +556,7 @@ Greg Little and Robert C. Miller. [Translating Keyword Commands into Executable 
 </li>
 
 <li class="paper" markdown="block">
-Andrew J. Ko and Brad A. Myers. [Finding causes of program output with the Java Whyline](//dx.doi.org/10.1145/1518701.1518942). CHI 2009.
+Andrew J. Ko and Brad A. Myers. [Finding Causes of Program Output with the Java Whyline](//dx.doi.org/10.1145/1518701.1518942). CHI 2009.
 </li>
 </ul>
 
