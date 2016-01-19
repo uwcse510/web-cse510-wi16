@@ -344,8 +344,13 @@ Post your reading report in the appropriate thread:
 <div class="col-md-2" markdown="block">
 ## Tue Jan 19
 </div>
+
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Information and Communication Technologies and Development
+
+\[<a data-toggle="collapse" href="#collapse0119">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0119">
 <div class="guest" markdown="block">
 Guest: [Kurtis Heimerl](//www.eecs.berkeley.edu/~kheimerl/)
 </div>
@@ -380,6 +385,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3169401>
 </div>
 
+</div>
 </div>
 </div>
 
