@@ -404,7 +404,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: an Informal Web Site Design Tool Inspired by Observations of Practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.
+Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.
 </li>
 </ul>
 
