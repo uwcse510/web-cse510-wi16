@@ -18,7 +18,7 @@ title: Calendar
 
 \[<a data-toggle="collapse" href="#collapse0105">Expand Archived Content</a>\]
 
-<div class="collapse" id="collapse0105">
+<div class="collapse" id="collapse0105" markdown="block">
 
 <div class="directions" markdown="block">
 No Readings Assigned
@@ -49,7 +49,7 @@ Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]
 
 \[<a data-toggle="collapse" href="#collapse0107">Expand Archived Content</a>\]
 
-<div class="collapse" id="collapse0107">
+<div class="collapse" id="collapse0107" markdown="block">
 <div class="directions" markdown="block">
 These "vision" papers challenge a dominant pattern,
 propose going beyond mimicking prior technologies,
@@ -144,7 +144,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 
 \[<a data-toggle="collapse" href="#collapse0108">Expand Archived Content</a>\]
 
-<div class="collapse" id="collapse0108">
+<div class="collapse" id="collapse0108" markdown="block">
 
 <div class="directions" markdown="block">
 Optional project feedback meetings with course staff.
@@ -170,7 +170,7 @@ Sign up for the reserved meeting times here:
 
 \[<a data-toggle="collapse" href="#collapse0112">Expand Archived Content</a>\]
 
-<div class="collapse" id="collapse0112">
+<div class="collapse" id="collapse0112" markdown="block">
 <div class="directions" markdown="block">
 Read the following framing paper:
 </div>
@@ -284,7 +284,7 @@ Amy X. Zhang, Mark S. Ackerman, David R. Karger. [Mailing Lists: Why Are They St
 
 \[<a data-toggle="collapse" href="#collapse0114">Expand Archived Content</a>\]
 
-<div class="collapse" id="collapse0114">
+<div class="collapse" id="collapse0114" markdown="block">
 <div class="directions" markdown="block">
 Class May Run Long To Accommodate Presentations
 </div>
@@ -344,8 +344,13 @@ Post your reading report in the appropriate thread:
 <div class="col-md-2" markdown="block">
 ## Tue Jan 19
 </div>
+
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Information and Communication Technologies and Development
+
+\[<a data-toggle="collapse" href="#collapse0119">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0119" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Kurtis Heimerl](//www.eecs.berkeley.edu/~kheimerl/)
 </div>
@@ -382,6 +387,7 @@ Post your reading report in the appropriate thread:
 
 </div>
 </div>
+</div>
 
 <!----------------------------------------------------------------------------->
 
@@ -398,7 +404,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: an Informal Web Site Design Tool Inspired by Observations of Practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.
+Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice](//dl.acm.org/citation.cfm?id=1466542). Human-Computer Interaction Journal, 2003.
 </li>
 </ul>
 
