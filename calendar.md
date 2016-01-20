@@ -371,7 +371,7 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Yaw Anokwa, Thomas N. Smyth, Divya Ramachandran, Jahanzeb Sherwani, Yael Schwartzman, Rowena Luk, Melissa Ho, Neema Moraveji, Brian DeRenzi. [Stories from the Field: Reflections on HCI4D Experiences](//www.itidjournal.org/index.php/itid/article/view/427). ITID Journal, 2009.
+Yaw Anokwa, Thomas N. Smyth, Divya Ramachandran, Jahanzeb Sherwani, Yael Schwartzman, Rowena Luk, Melissa Ho, Neema Moraveji, Brian DeRenzi. [Stories from the Field: Reflections on HCI4D Experiences](//itidjournal.org/index.php/itid/article/view/427). ITID Journal, 2009.
 </li>
 
 <li class="paper" markdown="block">
@@ -414,8 +414,7 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface
-for Collaborative Web Site Design](//dl.acm.org/citation.cfm?id=502350). UIST 2001.
+Scott R. Klemmer, Mark W. Newman, Ryan Farrell, Mark Bilezikjian, James A. Landay. [The Designers’ Outpost: A Tangible Interface for Collaborative Web Site Design]({{ site.baseurl }}/readings/klemmer2001.pdf). UIST 2001.
 </li>
 
 <li class="paper" markdown="block">
@@ -510,11 +509,11 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Carol Moser, Sarita Y. Schonebeck, Katharina Reinecke. [Technology at the Table: Attitudes about Mobile Phone Use at Mealtimes]({{ site.baseurl }}/readings/moser2016.pdf). CHI 2016 (to appear).
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Katharina Reinecke, David R. Flatla, Christopher Brooks. [Enabling Designers to Foresee Which Colors Users Cannot See]({{ site.baseurl }}/readings/reinecke2016.pdf). CHI 2016 (to appear).
 </li>
 </ul>
 
