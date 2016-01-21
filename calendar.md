@@ -441,8 +441,26 @@ Post your reading report in the appropriate thread:
 ## Experimental Design and Analysis
 
 <div class="directions" markdown="block">
-`? No Readings Assigned ?`
+No Readings Assigned
 </div>
+
+<div class="directions" markdown="block">
+Additional Optional Readings:
+</div>
+
+<ul class="readings" markdown="block">
+<li class="paper" markdown="block">
+UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?](//www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm). Web Page.
+</li>
+
+<li class="paper" markdown="block">
+UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?: Statistical Analyses Using SPSS](//www.ats.ucla.edu/stat/spss/whatstat/whatstat.htm). Web Page.
+</li>
+
+<li class="paper" markdown="block">
+Anthony G. Greenwald, Richard Gonzalez, Richard J. Harris, Donald Guthire. [Effect sizes and p values: What should be reported and what should be replicated?]({{ site.baseurl }}/readings/greenwald1996.pdf). Psychophysiology Journal, 1996.
+</li>
+</ul>
 
 </div>
 </div>
