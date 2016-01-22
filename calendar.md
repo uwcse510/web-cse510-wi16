@@ -394,10 +394,15 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Thu Jan 21
+
+\[[Slides]({{ site.baseurl }}/slides/07-DesignTools.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Design Tools
 
+\[<a data-toggle="collapse" href="#collapse0121">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0121" markdown="block">
 <div class="directions" markdown="block">
 Read the following framing paper:
 </div>
@@ -427,6 +432,7 @@ Post your reading report in the appropriate thread:
 
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3179161>
 </div>
+</div>
 
 </div>
 </div>
@@ -450,15 +456,15 @@ Additional Optional Readings:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?](//www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm). Web Page.
+UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm). Web Page.
 </li>
 
 <li class="paper" markdown="block">
-UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?: Statistical Analyses Using SPSS](//www.ats.ucla.edu/stat/spss/whatstat/whatstat.htm). Web Page.
+UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?: Statistical Analyses Using SPSS](http://www.ats.ucla.edu/stat/spss/whatstat/whatstat.htm). Web Page.
 </li>
 
 <li class="paper" markdown="block">
-Anthony G. Greenwald, Richard Gonzalez, Richard J. Harris, Donald Guthire. [Effect sizes and p values: What should be reported and what should be replicated?]({{ site.baseurl }}/readings/greenwald1996.pdf). Psychophysiology Journal, 1996.
+Anthony G. Greenwald, Richard Gonzalez, Richard J. Harris, Donald Guthire. [Effect Sizes and p Values: What Should be Reported and What Should be Replicated?]({{ site.baseurl }}/readings/greenwald1996.pdf). Psychophysiology Journal, 1996.
 </li>
 </ul>
 
