@@ -485,12 +485,12 @@ Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-r
 <div class="link" markdown="block">
 Submit your document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3143418>
 </div>
 <div class="link" markdown="block">
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3143419>
 </div>
 
 </div>
@@ -538,7 +538,7 @@ Katharina Reinecke, David R. Flatla, Christopher Brooks. [Enabling Designers to 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3187343>
 </div>
 
 </div>
@@ -586,7 +586,7 @@ Andrew J. Ko and Brad A. Myers. [Finding Causes of Program Output with the Java 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3187348>
 </div>
 
 </div>
@@ -606,7 +606,7 @@ Guest: [Hrvoje Benko](//research.microsoft.com/en-us/um/people/benko/)
 <div class="major" markdown="block">
 Due: [Statistics lab](/assignments/statisticslab)
 
-`link to submission`
+<https://canvas.uw.edu/courses/1021534/assignments/3143422>
 </div>
 
 <div class="directions" markdown="block">
