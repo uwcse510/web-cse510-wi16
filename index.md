@@ -127,22 +127,10 @@ Additional details will be posted here when finalized.
 
 # Statistics Lab
 
-There will be a statistic lab in which you work through basic analysis and reporting of an HCI experiment.
+To aid in developing the necessary skills, you will complete a statistics lab in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
+The lab will walk you through analyzing an example data set, and you will analyze two datasets from published research papers on your own.
 
-Additional details will be posted here when finalized.
-
-{% comment %}
-There are a set of statistical skills that are essential in evaluating many kinds of results in HCI,
-but it isn't always straightforward to acquire them.
-Courses in the Statistics Department may be more theoretical than you need,
-while just reading the manual for a statistics package won't provide the fundamentals.
-
-To aid in developing the necessary skills, you will complete a statistics lab.
-You will analyze two datasets from published research papers in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
-The lab will walk you through analyzing one of the datasets, and you will analyze the other on your own.
-
-More information can be found on the [Statistics lab](/assignments/statisticslab) page.
-{% endcomment %}
+More information can be found on the [Statistics Lab](/assignments/statisticslab) page.
 
 # Grading
 
