@@ -394,10 +394,15 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Thu Jan 21
+
+\[[Slides]({{ site.baseurl }}/slides/07-DesignTools.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Design Tools
 
+\[<a data-toggle="collapse" href="#collapse0121">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0121" markdown="block">
 <div class="directions" markdown="block">
 Read the following framing paper:
 </div>
@@ -427,6 +432,7 @@ Post your reading report in the appropriate thread:
 
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3179161>
 </div>
+</div>
 
 </div>
 </div>
@@ -450,15 +456,15 @@ Additional Optional Readings:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?](//www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm). Web Page.
+UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?](http://www.ats.ucla.edu/stat/mult_pkg/whatstat/default.htm). Web Page.
 </li>
 
 <li class="paper" markdown="block">
-UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?: Statistical Analyses Using SPSS](//www.ats.ucla.edu/stat/spss/whatstat/whatstat.htm). Web Page.
+UCLA: Statistical Consulting Group. [What Statistical Analysis Should I Use?: Statistical Analyses Using SPSS](http://www.ats.ucla.edu/stat/spss/whatstat/whatstat.htm). Web Page.
 </li>
 
 <li class="paper" markdown="block">
-Anthony G. Greenwald, Richard Gonzalez, Richard J. Harris, Donald Guthire. [Effect sizes and p values: What should be reported and what should be replicated?]({{ site.baseurl }}/readings/greenwald1996.pdf). Psychophysiology Journal, 1996.
+Anthony G. Greenwald, Richard Gonzalez, Richard J. Harris, Donald Guthire. [Effect Sizes and p Values: What Should be Reported and What Should be Replicated?]({{ site.baseurl }}/readings/greenwald1996.pdf). Psychophysiology Journal, 1996.
 </li>
 </ul>
 
@@ -485,12 +491,12 @@ Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-r
 <div class="link" markdown="block">
 Submit your document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3143418>
 </div>
 <div class="link" markdown="block">
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3143419>
 </div>
 
 </div>
@@ -538,7 +544,7 @@ Katharina Reinecke, David R. Flatla, Christopher Brooks. [Enabling Designers to 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3187343>
 </div>
 
 </div>
@@ -586,7 +592,7 @@ Andrew J. Ko and Brad A. Myers. [Finding Causes of Program Output with the Java 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3187348>
 </div>
 
 </div>
@@ -606,7 +612,7 @@ Guest: [Hrvoje Benko](//research.microsoft.com/en-us/um/people/benko/)
 <div class="major" markdown="block">
 Due: [Statistics lab](/assignments/statisticslab)
 
-`link to submission`
+<https://canvas.uw.edu/courses/1021534/assignments/3143422>
 </div>
 
 <div class="directions" markdown="block">
