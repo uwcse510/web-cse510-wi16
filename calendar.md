@@ -610,7 +610,7 @@ Post your reading report in the appropriate thread:
 Guest: [Hrvoje Benko](//research.microsoft.com/en-us/um/people/benko/)
 </div>
 <div class="major" markdown="block">
-Due: [Statistics lab](/assignments/statisticslab)
+Due: [Statistics lab]({{ site.baseurl }}/assignments/statisticslab.html)
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143422>
 </div>
