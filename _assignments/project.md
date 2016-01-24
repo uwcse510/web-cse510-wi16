@@ -3,7 +3,7 @@ layout: base/bar-sidebar-none
 title: "Project"
 ---
 
-# Overview
+## Overview
 
 A course project will be a major component of your work.
 This will require hands-on experience with HCI, while remaining open to different possibilities.
@@ -24,7 +24,7 @@ We expect most students will do projects in groups of three.
 We will consider groups of two, and very strongly discourage individuals.
 Working in groups is a necessary part of doing research, and also important for the logistics of this course.
 
-# Project Deliverables
+## Project Deliverables
 
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
 These are due:
@@ -34,7 +34,7 @@ These are due:
 - _Milestone_:      Thursday, February 25, 2016
 - _Final Report_:   Monday, March 14, 2016
 
-## Proposal
+### Proposal
 
 Your proposal will define your initial plan for this project.
 You can and should update this plan based on feedback, progress, and findings.
@@ -53,7 +53,7 @@ The course project must stand on its own.
 
 Proposals consist of a short document and a short in-class presentation.
 
-### Document
+#### Document
 
 Prepare a one-page document addressing the following points:
 
@@ -81,7 +81,7 @@ Prepare a one-page document addressing the following points:
   Explain what aspects of the project you might choose to ignore or defer in this course.
   This is your opportunity to scope the project appropriately for this course.
 
-### Presentation
+#### Presentation
 
 Each group will give a short in-class presentation of their proposal.
 This is an opportunity for feedback from staff and classmates.
@@ -89,7 +89,7 @@ Your presentation should cover the same information as the document.
 
 This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
 
-### Submission
+#### Submission
 
 Due: Uploaded the night before class Thursday, January 14, 2016
 
@@ -101,7 +101,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 
 <https://canvas.uw.edu/courses/1021534/assignments/3121658>
 
-## Milestone Reports
+### Milestone Reports
 
 Two milestone reports serve as a check on the trajectory of your project
 and an opportunity for feedback and guidance from staff and classmates.
@@ -109,7 +109,7 @@ Convey the state of your project and your plans for the remainder of the quarter
 
 Milestone reports consist of a short document and a short in-class presentation.
 
-### Document
+#### Document
 
 Prepare a one-page document addressing the following points:
 
@@ -117,7 +117,7 @@ Prepare a one-page document addressing the following points:
 - What you will do before your next milestone, including any adaptations based on your status or findings.
 - Any areas where you could use advice or are blocked.
 
-### Presentation
+#### Presentation
 
 Each group will give a short in-class presentation of their proposal.
 This is an opportunity for feedback from staff and classmates.
@@ -125,7 +125,7 @@ Your presentation should cover the same information as the document.
 
 This is an opportunity for feedback, not a formal presentation. Please be appropriately candid, thoughtful, and engaged.
 
-### Submission
+#### Submission
 
 Due: Uploaded the night before class Thursday, January 28, 2016 and Thursday, February 25, 2016.
 
@@ -135,7 +135,7 @@ Submit your document in PDF format.
 
 Submit your presentation as no more than three slides in PDF, PPT, or PPTX format.
 
-## Final Report
+### Final Report
 
 Your final report should be presented in the same general structure as the papers you read this quarter:
 
@@ -162,7 +162,7 @@ Jacob O. Wobbrock.
 Writing Advice, White Paper, 2015.
 </div>
 
-### Submission
+#### Submission
 
 Due: Uploaded by the end of day Monday, March 14, 2016.
 
