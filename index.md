@@ -3,7 +3,7 @@ layout: base/bar-sidebar-none
 title: Course Overview
 ---
 
-# Course Description
+## Course Description
 
 This course provides an introduction to several major areas of Human-Computer Interaction (HCI) research.
 It is based in a combination of readings and discussion, a small statistics lab, and a self-defined project.
@@ -22,7 +22,7 @@ or you might choose to design and execute an appropriately compelling study with
 
 We will emphasize open discussion and feedback in all aspects of the course.
 
-# Basic Information
+## Basic Information
 
 __Contact__: Email all instructors at cse510-instr [at] cs.washington.edu
 
@@ -49,7 +49,7 @@ __Course Staff__:
   </div>
 </html>
 
-# Readings
+## Readings
 
 Assigned readings will often focus on research topics, generally consisting of:
 
@@ -66,7 +66,7 @@ The calendar will link to assigned readings and provide any day-specific revisio
 You are expected to have read and considered the assigned readings prior to class,
 as the in-class discussions are a critical component of this course.
 
-## Reading Reports
+### Reading Reports
 
 To help prepare for an engaging and meaningful discussion, we require posting thoughts and questions beforehand.
 You can start a new discussion, participate in an existing discussion, or do a bit of both.
@@ -103,7 +103,7 @@ This ensures time to review discussion the next morning before class.
 
 Feel free to continue a discussion after this, even after class.
 
-# Project
+## Project
 
 A course project will be a major component of your work. Details of the project are here:
 
@@ -115,7 +115,7 @@ Some sample project ideas, gathered from faculty and researchers, have been made
 
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3155256>
 
-# Exam
+## Exam
 
 There will be a open-note, take-home exam asking you to demonstrate your understanding of the material
 in a more substantial format.
@@ -125,14 +125,41 @@ The readings will therefore also be important to the exam.
 
 Additional details will be posted here when finalized.
 
-# Statistics Lab
+## Statistics Lab
 
-To aid in developing the necessary skills, you will complete a statistics lab in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
-The lab will walk you through analyzing an example data set, and you will analyze two datasets from published research papers on your own.
+To aid in developing the necessary skills, you will complete a statistics lab 
+in either [JMP](//www.jmp.com/) or [R](//www.r-project.org/).
+The lab will walk you through analyzing an example data set, 
+and you will then analyze two datasets from published research papers.
 
-More information can be found on the [Statistics Lab](/assignments/statisticslab) page.
+You will gain basic familiarity with analyzing experiments using mixed‑model analyses of variance. 
+Consistent with lecture, this assignment is not intended to provide complete knowledge of how to design 
+or analyze experiments, which is far beyond the scope of one lecture or assignment. 
+This assignment is instead focused on a pragmatic introduction to analyzing 
+experiments based in designs you might later find useful. 
+Please consider this assignment in the context of the material covered in lecture, as not all of it is repeated here.
 
-# Grading
+In addition to the lecture material and the contents of this assignment, 
+you might benefit from working through the first four sections of 
+Jacob Wobbrock's independent in Practical Statistics for Human-Computer Interaction.
+
+<http://depts.washington.edu/aimgroup/proj/ps4hci/>
+
+### Download
+
+The assignment is available for download: 
+
+<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>
+
+### Submission
+
+Due: Uploaded before class Tuesday, February 9, 2016.
+
+Submit a ZIP archive including your document in PDF format and any additional files.
+
+<https://canvas.uw.edu/courses/1021534/assignments/3143422>
+
+## Grading
 
 Grading will roughly correspond to:
 
@@ -146,7 +173,7 @@ Much of the grading in this course is necessarily subjective.
 We will attempt to communicate expectations and feedback throughout the course, but it is your responsibility to
 communicate with us if you feel you would like guidance in this regard.
 
-# Submission
+## Submission
 
 Submissions will be coordinated using Canvas:
 
@@ -157,7 +184,7 @@ Many assignments are due "the night before class". We will implement this in Can
 This gives staff time to review submissions before class.
 Submitting the day of class, just before class, or in class is therefore unacceptable, risking zero credit.
 
-# Contributing
+## Contributing
 
 This course website lives on GitHub:
 
