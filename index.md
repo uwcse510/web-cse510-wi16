@@ -155,7 +155,7 @@ The assignment is available for download:
 
 Due: Uploaded before class Tuesday, February 9, 2016.
 
-Submit a ZIP archive including your document in PDF format and any additional files.
+Submit a ZIP archive including your document in PDF format and any additional files:
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143422>
 
