@@ -395,7 +395,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-2" markdown="block">
 ## Thu Jan 21
 
-\[[Slides]({{ site.baseurl }}/slides/07-DesignTools.pdf)\]
+\[[Slides]({{ site.baseurl }}/slides/06-DesignTools.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Design Tools
@@ -610,7 +610,11 @@ Post your reading report in the appropriate thread:
 Guest: [Hrvoje Benko](//research.microsoft.com/en-us/um/people/benko/)
 </div>
 <div class="major" markdown="block">
-Due: [Statistics lab](/assignments/statisticslab)
+Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
+</div>
+
+<div class="major" markdown="block">
+Submit a ZIP archive including your document in PDF format and any additional files:
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143422>
 </div>
