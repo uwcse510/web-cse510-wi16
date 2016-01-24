@@ -395,7 +395,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-2" markdown="block">
 ## Thu Jan 21
 
-\[[Slides]({{ site.baseurl }}/slides/07-DesignTools.pdf)\]
+\[[Slides]({{ site.baseurl }}/slides/06-DesignTools.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Design Tools
