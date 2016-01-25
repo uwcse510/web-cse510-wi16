@@ -763,7 +763,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Wobbrock, J.O. [Improving pointing in graphical user interfaces for people with motor impairments through ability-based design]({{ site.baseurl }}/readings/wobbrock2014.pdf). Book Chapter 8 in Georgios Kouroupetroglou, Assistive Technologies and Computer Access for Motor Disabilities.
 </li>
 </ul>
 
@@ -773,11 +773,11 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Krzysztof Z. Gajos, Jacob O. Wobbrock, and Daniel S. Weld. [Improving the performance of motor-impaired users with automatically-generated, ability-based interfaces](//dx.doi.org/10.1145/1357054.1357250). CHI 2008. ([video](//www.youtube.com/watch?v=B63whNtp4qc))
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Martez E. Mott, Radu-Daniel Vatavu, Shaun K. Kane and Jacob O. Wobbrock. [Smart Touch: Improving Touch Accuracy for People with Motor Impairments with Template Matching]({{ site.baseurl }}/readings/mott2016.pdf). CHI 2016 (to appear). ([video](//courses.cs.washington.edu/courses/cse510/videos/papers/smarttouch_2016.mp4))
 </li>
 </ul>
 
@@ -944,7 +944,7 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Michael Bostock, Vadim Ogievetsky,, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents](//dx.doi.org/10.1109/TVCG.2011.185). InfoVis 2011.
+Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents](//dx.doi.org/10.1109/TVCG.2011.185). InfoVis 2011.
 </li>
 
 <li class="paper" markdown="block">
