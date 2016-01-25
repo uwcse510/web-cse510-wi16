@@ -797,7 +797,7 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 23
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: TBD
+## Research Topic: Social Computing
 <div class="guest" markdown="block">
 Guest: [Mako Hill](https://mako.cc/)
 </div>
