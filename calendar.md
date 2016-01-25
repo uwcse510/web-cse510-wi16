@@ -343,6 +343,8 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Jan 19
+
+\[[Slides]({{ site.baseurl }}/slides/05-ICTD.pdf)\]
 </div>
 
 <div class="col-md-10 calcontent" markdown="block">
