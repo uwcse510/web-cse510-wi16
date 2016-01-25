@@ -803,13 +803,18 @@ Guest: [Mako Hill](https://mako.cc/)
 </div>
 
 <div class="directions" markdown="block">
-Read the following framing paper:
+Read the following framing papers:
 </div>
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Doug Schuler. [Social Computing](//dx.doi.org/10.1145/175222.175223). Communications of the ACM Magizine, 1994.
 </li>
+
+<li class="paper" markdown="block">
+Jonathan Grudin. [Groupware and Social Dynamics: Eight Challenges for Developers](//dx.doi.org/10.1145/175222.175230). CSCW 1992.
+</li>
+
 </ul>
 
 <div class="directions" markdown="block">
@@ -818,11 +823,11 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Wanda J. Orlikowski. [Learning from Notes: Organizational Issues in Groupware Implementation](//doi.org/10.1145/143457.143549). CSCW 1992.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Aniket Kittur, Robert E. Kraut. [Harnessing the Wisdom of Crowds in Wikipedia: Quality through Coordination](//doi.org/10.1145/1460563.1460572). CSCW 2008.
 </li>
 </ul>
 
@@ -929,7 +934,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools](//dx.doi.org/10.1145/344949.344959). TOCHI 2000.
 </li>
 </ul>
 
@@ -939,11 +944,11 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Michael Bostock, Vadim Ogievetsky,, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents](//dx.doi.org/10.1109/TVCG.2011.185). InfoVis 2011.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure](//dx.doi.org/10.1145/1753326.1753554). CHI 2010.
 </li>
 </ul>
 
