@@ -444,10 +444,15 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Jan 26
+
+\[[Slides]({{ site.baseurl }}/slides/07-Experimental Design And Analysis.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Experimental Design and Analysis
 
+\[<a data-toggle="collapse" href="#collapse0126">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0126" markdown="block">
 <div class="directions" markdown="block">
 No Readings Assigned
 </div>
@@ -470,6 +475,7 @@ Anthony G. Greenwald, Richard Gonzalez, Richard J. Harris, Donald Guthire. [Effe
 </li>
 </ul>
 
+</div>
 </div>
 </div>
 
