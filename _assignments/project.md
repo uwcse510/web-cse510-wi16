@@ -129,11 +129,14 @@ This is an opportunity for feedback, not a formal presentation. Please be approp
 
 Due: Uploaded the night before class Thursday, January 28, 2016 and Thursday, February 25, 2016.
 
-`Canvas links to be added here`
+Milestone 1 document: <https://canvas.uw.edu/courses/1021534/assignments/3143418>
+Milestone 1 presentation: <https://canvas.uw.edu/courses/1021534/assignments/3143419>
+Milestone 2 document: `Canvas link to be added here`
+Milestone 2 presentation: `Canvas link to be added hereD`
 
 Submit your document in PDF format.
 
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format.
+Submit your presentation in PDF, PPT, or PPTX format.
 
 ### Final Report
 
