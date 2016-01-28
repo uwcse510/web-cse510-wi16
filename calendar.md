@@ -761,9 +761,6 @@ Post your reading report in the appropriate thread:
 <div class="guest" markdown="block">
 Guest: [Jacob Wobbrock](//faculty.washington.edu/wobbrock/)
 </div>
-<div class="away" markdown="block">
-James Away
-</div>
 
 <div class="directions" markdown="block">
 Read the following framing paper:
