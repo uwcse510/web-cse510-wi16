@@ -678,7 +678,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Bill Buxton. [Touch, Gesture, & Marking](http://billbuxton.com/MKhaptic.html). Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000.
 </li>
 </ul>
 
@@ -688,7 +688,7 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Christian Holz, Patrick Baudisch. [Understanding Touch](//dx.doi.org/10.1145/1978942.1979308). CHI 2011.
 </li>
 
 <li class="paper" markdown="block">
@@ -760,9 +760,6 @@ Post your reading report in the appropriate thread:
 ## Research Topic: Accessibility and Ability-Based Design
 <div class="guest" markdown="block">
 Guest: [Jacob Wobbrock](//faculty.washington.edu/wobbrock/)
-</div>
-<div class="away" markdown="block">
-James Away
 </div>
 
 <div class="directions" markdown="block">
