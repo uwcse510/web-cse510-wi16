@@ -487,7 +487,9 @@ Anthony G. Greenwald, Richard Gonzalez, Richard J. Harris, Donald Guthire. [Effe
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Progress Presentations
+\[<a data-toggle="collapse" href="#collapse0128">Expand Archived Content</a>\]
 
+<div class="collapse" id="collapse0128" markdown="block">
 <div class="directions" markdown="block">
 Class May Run Long To Accommodate Presentations
 </div>
@@ -507,6 +509,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 <https://canvas.uw.edu/courses/1021534/assignments/3143419>
 </div>
 
+</div>
 </div>
 </div>
 
@@ -768,7 +771,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Wobbrock, J.O. [Improving pointing in graphical user interfaces for people with motor impairments through ability-based design]({{ site.baseurl }}/readings/wobbrock2014.pdf). Book Chapter 8 in Georgios Kouroupetroglou, Assistive Technologies and Computer Access for Motor Disabilities.
+Wobbrock, J.O. [Improving Pointing in Graphical User Interfaces for People with Motor Impairments Through Ability-Based Design]({{ site.baseurl }}/readings/wobbrock2014.pdf). Book Chapter 8 in Georgios Kouroupetroglou, Assistive Technologies and Computer Access for Motor Disabilities.
 </li>
 </ul>
 
