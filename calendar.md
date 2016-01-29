@@ -616,7 +616,7 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 9
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: Augmented and Virtual Reality
+## Research Topic: Interactions with Cameras
 <div class="guest" markdown="block">
 Guest: [Hrvoje Benko](//research.microsoft.com/en-us/um/people/benko/)
 </div>
@@ -636,7 +636,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Pierre Wellner. [Interacting with Paper on the DigitalDesk](//dl.acm.org/citation.cfm?id=159630). CACM 1993. ([video](//www.youtube.com/watch?v=S8lCetZ_57g))
 </li>
 </ul>
 
@@ -646,18 +646,18 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Hrvoje Benko, Ricardo Jota, and Andrew D. Wilson. [MirageTable: Freehand Interaction on a Projected Augmented Reality Tabletop](//dx.doi.org/10.1145/2207676.2207704). CHI 2012. ([video](//www.youtube.com/watch?v=EaCjTog0u40))
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Andrew D. Wilson and Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association](//dx.doi.org/10.1145/2663204.2663270  ). ICMI 2014. ([video](//www.youtube.com/watch?v=2KsVw_cJq6g))
 </li>
 </ul>
 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3196467>
 </div>
 
 </div>
@@ -702,7 +702,7 @@ Christian Holz, Patrick Baudisch. [Understanding Touch](//dx.doi.org/10.1145/197
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3196471>
 </div>
 
 </div>
