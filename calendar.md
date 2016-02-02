@@ -518,16 +518,20 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Feb 2
+
+\[[Slides]({{ site.baseurl }}/slides/09-OtherCultures.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Extending HCI Principles to Other Cultures and Countries
+\[<a data-toggle="collapse" href="#collapse0202">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0202" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Katharina Reinecke](//homes.cs.washington.edu/~reinecke/)
 </div>
 <div class="away" markdown="block">
 James Away
 </div>
-
 <div class="directions" markdown="block">
 Read the following framing paper:
 </div>
@@ -558,6 +562,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3187343>
 </div>
 
+</div>
 </div>
 </div>
 
@@ -771,7 +776,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-Wobbrock, J.O. [Improving Pointing in Graphical User Interfaces for People with Motor Impairments Through Ability-Based Design]({{ site.baseurl }}/readings/wobbrock2014.pdf). Book Chapter 8 in Georgios Kouroupetroglou, Assistive Technologies and Computer Access for Motor Disabilities.
+Jacob O. Wobbrock. [Improving Pointing in Graphical User Interfaces for People with Motor Impairments Through Ability-Based Design]({{ site.baseurl }}/readings/wobbrock2014.pdf). Book Chapter 8 in Georgios Kouroupetroglou, Assistive Technologies and Computer Access for Motor Disabilities.
 </li>
 </ul>
 
