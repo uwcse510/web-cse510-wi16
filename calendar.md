@@ -707,7 +707,7 @@ Christian Holz, Patrick Baudisch. [Understanding Touch](//dx.doi.org/10.1145/197
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch](//dx.doi.org/10.1145/1240624.1240727). CHI 2007. ([video](//www.youtube.com/watch?v=kkoFlDArYks))
 </li>
 </ul>
 
