@@ -571,9 +571,15 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Thu Feb 4
+
+\[[Slides]({{ site.baseurl }}/slides/10-InteractionsWithCode.pdf)\]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Interactions with Code
+
+\[<a data-toggle="collapse" href="#collapse0204">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0204" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Andrew Ko](//faculty.washington.edu/ajko/)
 </div>
@@ -611,6 +617,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3187348>
 </div>
 
+</div>
 </div>
 </div>
 
