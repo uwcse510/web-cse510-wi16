@@ -640,6 +640,10 @@ Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
 Submit a ZIP archive including your document in PDF format and any additional files:
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143422>
+
+Submit your time journal and assignment feedback:
+
+<https://canvas.uw.edu/courses/1021534/quizzes/880792>
 </div>
 
 <div class="directions" markdown="block">
