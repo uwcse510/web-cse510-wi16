@@ -742,7 +742,7 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+B.J. Fogg. [Persuasive Computers: Perspectives and Research Directions](//dx.doi.org/10.1145/274644.274677). CHI 1998.
 </li>
 </ul>
 
@@ -752,18 +752,18 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Min Kyung Lee, Sara Kiesler, Jodi Forlizzi. [Mining Behavioral Economics to Design Persuasive Technology for Healthy Choices](//dx.doi.org/10.1145/1978942.1978989). CHI 2011.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Sunny Consolvo, Predrag Klasnja, David W. McDonald, Daniel Avrahami, Jon Froehlich, Louis LeGrand, Ryan Libby, Keith Mosher, James A. Landay. [Flowers or a Robot Army?: Encouraging Awareness & Activity with Personal, Mobile Displays](//dx.doi.org/10.1145/1409635.1409644). UbiComp 2008.
 </li>
 </ul>
 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3207471>
 </div>
 
 </div>
