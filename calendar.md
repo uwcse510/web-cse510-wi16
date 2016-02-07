@@ -640,6 +640,10 @@ Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
 Submit a ZIP archive including your document in PDF format and any additional files:
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143422>
+
+Submit your time journal and assignment feedback:
+
+<https://canvas.uw.edu/courses/1021534/quizzes/880792>
 </div>
 
 <div class="directions" markdown="block">
@@ -707,7 +711,7 @@ Christian Holz, Patrick Baudisch. [Understanding Touch](//dx.doi.org/10.1145/197
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch](//dx.doi.org/10.1145/1240624.1240727). CHI 2007. ([video](//www.youtube.com/watch?v=kkoFlDArYks))
 </li>
 </ul>
 

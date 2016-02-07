@@ -159,6 +159,10 @@ Submit a ZIP archive including your document in PDF format and any additional fi
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143422>
 
+Submit your time journal and assignment feedback:
+
+<https://canvas.uw.edu/courses/1021534/quizzes/880792>
+
 ## Grading
 
 Grading will roughly correspond to:
