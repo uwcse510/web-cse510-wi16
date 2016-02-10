@@ -688,7 +688,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Touch Input
 <div class="guest" markdown="block">
-Guest: [Christian Holz](//www.christianholz.net/)
+Guest: [Christian Holz](http://www.christianholz.net/)
 </div>
 
 <div class="directions" markdown="block">
@@ -733,7 +733,7 @@ Post your reading report in the appropriate thread:
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Technology and Behavior Change
 <div class="guest" markdown="block">
-Guest: [Pedja Klasnja](//www.pedjaklasnja.com/)
+Guest: [Pedja Klasnja](http://www.pedjaklasnja.com/)
 </div>
 
 <div class="directions" markdown="block">
