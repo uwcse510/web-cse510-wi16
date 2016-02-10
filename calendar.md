@@ -626,9 +626,15 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Feb 9
+
+\[[Slides]({{ site.baseurl }}/slides/11-InteractionsWithCameras.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Interactions with Cameras
+
+\[<a data-toggle="collapse" href="#collapse0209">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0209" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Hrvoje Benko](//research.microsoft.com/en-us/um/people/benko/)
 </div>
@@ -676,6 +682,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3196467>
 </div>
 
+</div>
 </div>
 </div>
 
