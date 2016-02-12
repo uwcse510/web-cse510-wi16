@@ -691,9 +691,15 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Thu Feb 11
+
+\[[Slides]({{ site.baseurl }}/slides/12-TouchInput.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Touch Input
+
+\[<a data-toggle="collapse" href="#collapse0211">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0211" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Christian Holz](http://www.christianholz.net/)
 </div>
@@ -728,6 +734,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3196471>
 </div>
 
+</div>
 </div>
 </div>
 
