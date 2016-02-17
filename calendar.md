@@ -745,7 +745,11 @@ Post your reading report in the appropriate thread:
 ## Tue Feb 16
 </div>
 <div class="col-md-10 calcontent" markdown="block">
+
 ## Research Topic: Technology and Behavior Change
+\[<a data-toggle="collapse" href="#collapse0216">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0216" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Pedja Klasnja](http://www.pedjaklasnja.com/)
 </div>
@@ -780,6 +784,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3207471>
 </div>
 
+</div>
 </div>
 </div>
 
@@ -822,7 +827,7 @@ Martez E. Mott, Radu-Daniel Vatavu, Shaun K. Kane and Jacob O. Wobbrock. [Smart 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3216174>
 </div>
 
 </div>
@@ -872,7 +877,7 @@ Aniket Kittur, Robert E. Kraut. [Harnessing the Wisdom of Crowds in Wikipedia: Q
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3216176>
 </div>
 
 </div>
