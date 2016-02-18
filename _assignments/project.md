@@ -131,8 +131,8 @@ Due: Uploaded the night before class Thursday, January 28, 2016 and Thursday, Fe
 
 Milestone 1 document: <https://canvas.uw.edu/courses/1021534/assignments/3143418>
 Milestone 1 presentation: <https://canvas.uw.edu/courses/1021534/assignments/3143419>
-Milestone 2 document: `Canvas link to be added here`
-Milestone 2 presentation: `Canvas link to be added hereD`
+Milestone 2 document: <https://canvas.uw.edu/courses/1021534/assignments/3164485>
+Milestone 2 presentation: <https://canvas.uw.edu/courses/1021534/assignments/3164486>
 
 Submit your document in PDF format.
 
@@ -169,7 +169,7 @@ Writing Advice, White Paper, 2015.
 
 Due: Uploaded by the end of day Monday, March 14, 2016.
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164488>
 
 Submit your document in PDF format.
 
