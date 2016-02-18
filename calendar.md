@@ -743,6 +743,8 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Feb 16
+
+\[[Slides]({{ site.baseurl }}/slides/13-BehaviorChange.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 
