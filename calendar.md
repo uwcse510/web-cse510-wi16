@@ -504,7 +504,7 @@ Submit your document in PDF format:
 <https://canvas.uw.edu/courses/1021534/assignments/3143418>
 </div>
 <div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
+Submit your presentation in PDF, PPT, or PPTX format:
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143419>
 </div>
@@ -905,12 +905,12 @@ Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-r
 <div class="link" markdown="block">
 Submit your document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164485>
 </div>
 <div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
+Submit your presentation in PDF, PPT, or PPTX format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164486>
 </div>
 
 </div>
@@ -923,7 +923,7 @@ Submit your presentation as no more than three slides in PDF, PPT, or PPTX forma
 ## Tue Mar 1
 </div>
 <div class="col-md-10 calcontent" markdown="block">
-## Research Topic: Interactive Machine Learning
+## Research Topic: Human-Centered Machine Learning
 <div class="guest" markdown="block">
 Guest: [Saleema Amershi](http://research.microsoft.com/en-us/um/people/samershi/)
 </div>
@@ -937,7 +937,8 @@ Read the following framing paper:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Framing paper`
+Kayur Patel, James Fogarty, James A. Landay, Beverly Harrison. [Investigating Statistical Machine Learning
+as a Tool for Software Development](//doi.org/10.1145/1357054.1357160). CHI 2008.
 </li>
 </ul>
 
@@ -947,18 +948,18 @@ Select one of the following to read:
 
 <ul class="readings" markdown="block">
 <li class="paper" markdown="block">
-`Instance paper`
+Jerry Alan Fails, Dan R. Olsen, Jr. [Interactive Machine Learning](//doi.org/10.1145/604045.604056). IUI 2003.
 </li>
 
 <li class="paper" markdown="block">
-`Instance paper`
+Justin Cheng, Michael S. Bernstein. [Flock: Hybrid Crowd-Machine Learning Classifiers](//doi.org/10.1145/2675133.2675214). CSCW 2015.
 </li>
 </ul>
 
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3221523>
 </div>
 
 </div>
@@ -1000,7 +1001,7 @@ Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixe
 <div class="link" markdown="block">
 Post your reading report in the appropriate thread:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/discussion_topics/3221534>
 </div>
 
 </div>
@@ -1023,9 +1024,9 @@ No Readings Assigned
 </div>
 
 <div class="link" markdown="block">
-Submit your document in PDF format:
+Submit your exam document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164492>
 </div>
 
 </div>
@@ -1067,7 +1068,7 @@ Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
 <div class="link" markdown="block">
 Submit your document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164488>
 </div>
 
 </div>
