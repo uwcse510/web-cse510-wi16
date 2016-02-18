@@ -504,7 +504,7 @@ Submit your document in PDF format:
 <https://canvas.uw.edu/courses/1021534/assignments/3143418>
 </div>
 <div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
+Submit your presentation in PDF, PPT, or PPTX format:
 
 <https://canvas.uw.edu/courses/1021534/assignments/3143419>
 </div>
@@ -905,12 +905,12 @@ Due: [Project Milestone]({{ site.baseurl }}/assignments/project.html#milestone-r
 <div class="link" markdown="block">
 Submit your document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164485>
 </div>
 <div class="link" markdown="block">
-Submit your presentation as no more than three slides in PDF, PPT, or PPTX format:
+Submit your presentation in PDF, PPT, or PPTX format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164486>
 </div>
 
 </div>
@@ -1023,9 +1023,9 @@ No Readings Assigned
 </div>
 
 <div class="link" markdown="block">
-Submit your document in PDF format:
+Submit your exam document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164492>
 </div>
 
 </div>
@@ -1067,7 +1067,7 @@ Due: [Final Report]({{ site.baseurl }}/assignments/project.html#final-report)
 <div class="link" markdown="block">
 Submit your document in PDF format:
 
-`Canvas link to be added here`
+<https://canvas.uw.edu/courses/1021534/assignments/3164488>
 </div>
 
 </div>
