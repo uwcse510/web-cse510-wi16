@@ -795,9 +795,14 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Thu Feb 18
+
+\[[Slides]({{ site.baseurl }}/slides/14-AbilityBasedDesign.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Accessibility and Ability-Based Design
+\[<a data-toggle="collapse" href="#collapse0218">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0218" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Jacob Wobbrock](//faculty.washington.edu/wobbrock/)
 </div>
@@ -832,6 +837,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3216174>
 </div>
 
+</div>
 </div>
 </div>
 
