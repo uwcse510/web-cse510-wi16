@@ -1021,18 +1021,9 @@ Post your reading report in the appropriate thread:
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## HCI as Design
-<div class="major" markdown="block">
-Due: `exam`
-</div>
 
 <div class="directions" markdown="block">
 No Readings Assigned
-</div>
-
-<div class="link" markdown="block">
-Submit your exam document in PDF format:
-
-<https://canvas.uw.edu/courses/1021534/assignments/3164492>
 </div>
 
 </div>
@@ -1049,6 +1040,16 @@ Submit your exam document in PDF format:
 
 <div class="directions" markdown="block">
 No Readings Assigned
+</div>
+
+<div class="major" markdown="block">
+Due: [exam]({{ site.baseurl }}/assignments/finalexam.pdf)
+</div>
+
+<div class="link" markdown="block">
+Submit your exam document in PDF format:
+
+<https://canvas.uw.edu/courses/1021534/assignments/3164492>
 </div>
 
 </div>

@@ -123,7 +123,11 @@ The exam will evaluate your understanding of and critical thinking about concept
 requiring you to connect concepts across papers.
 The readings will therefore also be important to the exam.
 
-Additional details will be posted here when finalized.
+### Download
+
+The exam is available for download: 
+
+<{{ site.url }}{{ site.baseurl }}/assignments/finalexam.pdf>
 
 ## Statistics Lab
 
