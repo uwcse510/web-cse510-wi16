@@ -1043,7 +1043,7 @@ No Readings Assigned
 </div>
 
 <div class="major" markdown="block">
-Due: [exam]({{ site.baseurl }}/assignments/finalexam.pdf)
+Due: [Exam]({{ site.baseurl }}/assignments/finalexam.pdf)
 </div>
 
 <div class="link" markdown="block">

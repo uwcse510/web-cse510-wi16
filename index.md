@@ -117,17 +117,22 @@ Some sample project ideas, gathered from faculty and researchers, have been made
 
 ## Exam
 
-There will be a open-note, take-home exam asking you to demonstrate your understanding of the material
-in a more substantial format.
-The exam will evaluate your understanding of and critical thinking about concepts covered in this course,
-requiring you to connect concepts across papers.
-The readings will therefore also be important to the exam.
+The exam is an opportunity to demonstrate and apply your understanding of the course material in a more substantial format.
+It requires you to connect concepts across papers, serving as an evaluation of your understanding and critical thinking 
+about concepts covered in this course. If you have kept pace with the readings, you will find it much easier to approach
+this exam (e.g., simply referring back to readings, rather than needing to understand them from scratch). 
+You may reference any of the articles, slides, notes, discussion posts, or other material readily available on the web. 
+You may consult the course staff with any questions, but this is strictly an individual assignment (i.e., do not discuss it with others).
 
 ### Download
 
 The exam is available for download: 
 
 <{{ site.url }}{{ site.baseurl }}/assignments/finalexam.pdf>
+
+### Submission
+
+Due: Uploaded by end of day Thursday, March 10, 2016.
 
 ## Statistics Lab
 
