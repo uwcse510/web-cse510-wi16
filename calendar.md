@@ -846,9 +846,14 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Feb 23
+
+\[[Slides]({{ site.baseurl }}/slides/15-SocialComputing.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Social Computing
+\[<a data-toggle="collapse" href="#collapse0223">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0223" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Mako Hill](https://mako.cc/)
 </div>
@@ -890,6 +895,7 @@ Post your reading report in the appropriate thread:
 
 </div>
 </div>
+</div>
 
 <!----------------------------------------------------------------------------->
 
@@ -899,7 +905,9 @@ Post your reading report in the appropriate thread:
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Project Progress Presentations
+\[<a data-toggle="collapse" href="#collapse0225">Expand Archived Content</a>\]
 
+<div class="collapse" id="collapse0225" markdown="block">
 <div class="directions" markdown="block">
 Class May Run Long To Accommodate Presentations
 </div>
@@ -921,6 +929,7 @@ Submit your presentation in PDF, PPT, or PPTX format:
 
 </div>
 </div>
+</div>
 
 <!----------------------------------------------------------------------------->
 
@@ -930,6 +939,9 @@ Submit your presentation in PDF, PPT, or PPTX format:
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Human-Centered Machine Learning
+\[<a data-toggle="collapse" href="#collapse0301">Expand Archived Content</a>\]
+
+<div class="collapse" id="collapse0301" markdown="block">
 <div class="guest" markdown="block">
 Guest: [Saleema Amershi](http://research.microsoft.com/en-us/um/people/samershi/)
 </div>
@@ -968,6 +980,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3221523>
 </div>
 
+</div>
 </div>
 </div>
 
