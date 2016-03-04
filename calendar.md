@@ -936,6 +936,8 @@ Submit your presentation in PDF, PPT, or PPTX format:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Mar 1
+
+\[[Slides]({{ site.baseurl }}/slides/18-MachineLearning.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Human-Centered Machine Learning
@@ -989,10 +991,14 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Thu Mar 3
+
+\[[Slides]({{ site.baseurl }}/slides/19-Toolkits.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## Research Topic: Interface Toolkits
+\[<a data-toggle="collapse" href="#collapse0303">Expand Archived Content</a>\]
 
+<div class="collapse" id="collapse0303" markdown="block">
 <div class="directions" markdown="block">
 Read the following framing paper:
 </div>
@@ -1023,6 +1029,7 @@ Post your reading report in the appropriate thread:
 <https://canvas.uw.edu/courses/1021534/discussion_topics/3221534>
 </div>
 
+</div>
 </div>
 </div>
 
