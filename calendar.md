@@ -1038,14 +1038,19 @@ Post your reading report in the appropriate thread:
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Tue Mar 8
+
+\[[Slides]({{ site.baseurl }}/slides/20-Design1.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## HCI as Design
+\[<a data-toggle="collapse" href="#collapse0308">Expand Archived Content</a>\]
 
+<div class="collapse" id="collapse0308" markdown="block">
 <div class="directions" markdown="block">
 No Readings Assigned
 </div>
 
+</div>
 </div>
 </div>
 
