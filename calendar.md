@@ -1059,10 +1059,14 @@ No Readings Assigned
 <div class="row">
 <div class="col-md-2" markdown="block">
 ## Thu Mar 10
+
+\[[Slides]({{ site.baseurl }}/slides/21-Design2.pdf)]
 </div>
 <div class="col-md-10 calcontent" markdown="block">
 ## HCI as Design
+\[<a data-toggle="collapse" href="#collapse0310">Expand Archived Content</a>\]
 
+<div class="collapse" id="collapse0310" markdown="block">
 <div class="directions" markdown="block">
 No Readings Assigned
 </div>
@@ -1077,6 +1081,7 @@ Submit your exam document in PDF format:
 <https://canvas.uw.edu/courses/1021534/assignments/3164492>
 </div>
 
+</div>
 </div>
 </div>
 
